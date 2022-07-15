@@ -95,7 +95,7 @@ For any updates or corrections please email us: antifacheck161@protonmail.com
 
 ## Other Research:
 
-    Erin Gallagher
+    Erin Gallagher:
 
     https://erin-gallagher.medium.com/fake-antifa-twitter-be3a05f4d2ca
 
@@ -104,7 +104,7 @@ For any updates or corrections please email us: antifacheck161@protonmail.com
     https://medium.com/swlh/visualizing-cyber-harassment-7c4cad50bc8c
 
 
-    Conspirador Norteño
+    Conspirador Norteño:
 
     https://web.archive.org/web/20180922093823/https://geomovements.com/list-of-fake-antifa-accounts-on-twitter-f8f8f14c4bf9
 

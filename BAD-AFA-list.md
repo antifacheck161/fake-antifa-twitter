@@ -269,7 +269,6 @@
 |[Name Changed](https://twitter.com/typical_twink)|[@typical\_twink](data/typical_twink-twitter-info)|818126854091485184|
 |[Name Changed](https://twitter.com/USASOCandProud)|[@USASOCandProud](data/USASOCandProud-twitter-info)|897941021555924992|
 |[Name Changed](https://twitter.com/UtahAntiFascist)|[@UtahAntiFascist](data/UtahAntiFascist-twitter-info)|832359419203768320|
-|[Not Available](https://twitter.com/redfpgafa)|[@redfpgafa](data/redfpgafa-twitter-info)||
 |[Suspended](https://twitter.com/_antifamousec)|[@\_antifamousec](data/_antifamousec-twitter-info)|1246024730441682944|
 |[Suspended](https://twitter.com/_TulipSniper_)|[@\_TulipSniper\_](data/_TulipSniper_-twitter-info)|389586180|
 |[Suspended](https://twitter.com/405Antifa)|[@405Antifa](data/405Antifa-twitter-info)|854166718452609024|

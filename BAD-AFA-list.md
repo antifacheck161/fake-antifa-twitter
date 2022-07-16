@@ -1,3 +1,5 @@
+| Handle               | ID                  | Status                   |
+| -------------------- | ------------------- | ------------------------ |
 |[Active](https://twitter.com/AaGibbs_KU)|[@AaGibbs\_KU](data/AaGibbs_KU-twitter-info)|2656250317|
 |[Active](https://twitter.com/AnonPgh)|[@AnonPgh](data/AnonPgh-twitter-info)|1479826563898253316|
 |[Active](https://twitter.com/AntiFacistUSA)|[@AntiFacistUSA](data/AntiFacistUSA-twitter-info)|827818941972115456|

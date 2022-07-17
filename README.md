@@ -28,6 +28,7 @@ https://twitter.com/AntifaChecker/status/848364179304185856
 
 The purpose of this project is to continue the process of identifying bad actor antifascist Twitter accounts for people to easily block obvious fake/troll accounts. In turn, the project's Twitter account would only follow known and legitimate #antifa accounts with a goal of updating the follow list to include antifascist accounts that have established themselves since the original AntifaChecker's account went dormant.
 
+
 Project Methodology
 
 1) Block known fakes and bad actors

@@ -1,3 +1,5 @@
+Note: accounts that currently appear as non-antifa had previous antifa branding on their account.
+
 | Handle               | ID                  | Status                   |
 | -------------------- | ------------------- | ------------------------ |
 |[Active](https://twitter.com/AaGibbs_KU)|[@AaGibbs\_KU](data/AaGibbs_KU-twitter-info)|2656250317|

@@ -1,6 +1,6 @@
 Users that are currently branded as non-antifa had previously posed as antifa on their account.
 
-| Handle               | ID                  | Status                   |
+| Status              | Handle                  | ID                   |
 | -------------------- | ------------------- | ------------------------ |
 |[Active](https://twitter.com/AntiFacistUSA)|[@AntiFacistUSA](data/AntiFacistUSA-twitter-info)|827818941972115456|
 |[Active](https://twitter.com/antifatoronto)|[@antifatoronto](data/antifatoronto-twitter-info)|1472034706451361795|

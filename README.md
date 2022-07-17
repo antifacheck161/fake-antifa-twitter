@@ -77,7 +77,7 @@ https://docs.google.com/spreadsheets/d/1UByF4_lEd3wYKxHi1tPjLK8OftKltERfsPR-bLUh
 ALT RIGHT BOTS KNOWINGLY SPREADING MISINFORMATION AND HATEFUL CONTENT ON TWITTER - Dec. 25, 2017
 https://archive.ph/3R0AD
 
-Conspirator0 Tweet of Fake AFA images- Sept. 28, 2017
+Conspirator0 Tweet of Fake AFA images - Sept. 28, 2017
 https://twitter.com/conspirator0/status/913561149773316096
 
 List of Fake Antifa Accounts on Twitter - Aug 21, 2017

@@ -93,5 +93,5 @@ https://docs.google.com/spreadsheets/d/1X1u0Jg70osnq8zdSNz2QlZwagnrTSOhfgwwyvqpb
 Fake Antifa Twitter - Erin Gallagher - July 18, 2017  
 https://erin-gallagher.medium.com/fake-antifa-twitter-be3a05f4d2ca
 
-2017 Fake Antifa accounts image - @RVAwonk - Caroline Orr - Apr 25, 2017  
+Fake Antifa accounts image - @RVAwonk - Caroline Orr - Apr 25, 2017  
 https://twitter.com/RVAwonk/status/857011182988873728

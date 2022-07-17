@@ -3,9 +3,8 @@
 We identify bad actor / fake antifascist accounts and follow verified antifascist accounts.
 
 
-## Block List - Bad / Fake Antifa Accounts
+## [Block List - Bad / Fake Antifa Accounts](BAD-AFA-list.md)
 
-[List of accounts](BAD-AFA-list.md)
 
 ## Submissions:
 

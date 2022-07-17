@@ -3,6 +3,8 @@
 We identify bad actor / fake antifascist accounts and follow verified antifascist accounts.
 
 
+## Block List - Bad / Fake Antifa Accounts
+
 ## Submissions:
 
 Security Note:  Please use a VPN or Tor, etc. if you are concerned about your security
@@ -61,6 +63,9 @@ https://medium.com/swlh/visualizing-cyber-harassment-7c4cad50bc8c
 Butterfly Attack: The Origins of Fake Antifa Social Media Accounts - Erin Gallagher - Oct. 9, 2020
 https://mediamanipulation.org/case-studies/butterfly-attack-origins-fake-antifa-social-media-accounts
 
+@AntifaChecker twitter block list - blocktogether.org - June 1, 2020
+https://archive.ph/c0Dhq
+
 A List of 420+ Fake Antifa Accounts on Social Media - Subcomandante X - Aug. 19, 2019
 https://medium.com/americanodyssey/list-of-fake-antifa-accounts-on-social-media-trolls-1df2e7348d7c
 
@@ -76,6 +81,9 @@ https://twitter.com/conspirator0/status/913561149773316096
 List of Fake Antifa Accounts on Twitter - Aug 21, 2017
 https://archive.ph/joytq
 
+To Troll a Movement: A List of 320+ Fake Antifa Accounts on Social Media - Conspirator0 - Aug 21, 2017
+https://web.archive.org/web/20180922093823/https://geomovements.com/list-of-fake-antifa-accounts-on-twitter-f8f8f14c4bf9
+
 OpWolverines 2017 Fake Antifa Spreadsheet - Aug. 2017
 https://docs.google.com/spreadsheets/d/1X1u0Jg70osnq8zdSNz2QlZwagnrTSOhfgwwyvqpbrRE/htmlview#
 
@@ -84,4 +92,3 @@ https://erin-gallagher.medium.com/fake-antifa-twitter-be3a05f4d2ca
 
 2017 Fake Antifa accounts image - @RVAwonk - Caroline Orr - Apr 25, 2017
 https://twitter.com/RVAwonk/status/857011182988873728
-

@@ -1,4 +1,4 @@
-Accounts that are currently branded as non-antifa had previous posed as antifa on their account.
+Users that are currently branded as non-antifa had previous posed as antifa on their account.
 
 | Handle               | ID                  | Status                   |
 | -------------------- | ------------------- | ------------------------ |

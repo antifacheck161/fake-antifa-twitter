@@ -5,6 +5,8 @@ We identify bad actor / fake antifascist accounts and follow verified antifascis
 
 ## Block List - Bad / Fake Antifa Accounts
 
+[List of accounts](BAD-AFA-list.md)
+
 ## Submissions:
 
 Security Note:  Please use a VPN or Tor, etc. if you are concerned about your security

@@ -66,7 +66,7 @@ https://medium.com/swlh/visualizing-cyber-harassment-7c4cad50bc8c
 Butterfly Attack: The Origins of Fake Antifa Social Media Accounts - Erin Gallagher - Oct 9, 2020  
 https://mediamanipulation.org/case-studies/butterfly-attack-origins-fake-antifa-social-media-accounts
 
-@AntifaChecker twitter block list - blocktogether.org - Jun 1, 2020  
+AntifaChecker Twitter Block List - blocktogether.org - Jun 1, 2020  
 https://archive.ph/c0Dhq
 
 A List of 420+ Fake Antifa Accounts on Social Media - Subcomandante X - Aug 19, 2019  

@@ -245,25 +245,19 @@ Users that are currently branded as non-antifa had previous posed as antifa on t
 |[Name Changed](https://twitter.com/BuckheadAnita)|[@BuckheadAnita](data/BuckheadAnita-twitter-info)|847970588773818368|
 |[Name Changed](https://twitter.com/BuffaloAntifa)|[@BuffaloAntifa](data/BuffaloAntifa-twitter-info)|832422851005313024|
 |[Name Changed](https://twitter.com/burnantifa)|[@burnantifa](data/burnantifa-twitter-info)|4805367912|
-|[Name Changed](https://twitter.com/CommonSense_KU)|[@CommonSense\_KU](data/CommonSense_KU-twitter-info)|2656250317|
 |[Name Changed](https://twitter.com/Dwakefield69)|[@Dwakefield69](data/Dwakefield69-twitter-info)|304697021|
 |[Name Changed](https://twitter.com/flraag)|[@flraag](data/flraag-twitter-info)|1187697893785755648|
 |[Name Changed](https://twitter.com/folouofficial)|[@folouofficial](data/folouofficial-twitter-info)|717914842481500160|
 |[Name Changed](https://twitter.com/FtBraggAntifa)|[@FtBraggAntifa](data/FtBraggAntifa-twitter-info)|897941021555924992|
-|[Name Changed](https://twitter.com/gibbs_KU)|[@gibbs\_KU](data/gibbs_KU-twitter-info)|2656250317|
 |[Name Changed](https://twitter.com/GoingGies)|[@GoingGies](data/GoingGies-twitter-info)|1328113068|
 |[Name Changed](https://twitter.com/HillaryCli2020)|[@HillaryCli2020](data/HillaryCli2020-twitter-info)|832422851005313024|
 |[Name Changed](https://twitter.com/IRV_Antifa)|[@IRV\_Antifa](data/IRV_Antifa-twitter-info)|816039689127739392|
 |[Name Changed](https://twitter.com/jawillerding)|[@jawillerding](data/jawillerding-twitter-info)|502446133|
-|[Name Changed](https://twitter.com/Justice4Kate_KU)|[@Justice4Kate\_KU](data/Justice4Kate_KU-twitter-info)|2656250317|
 |[Name Changed](https://twitter.com/KaliLegdrop)|[@KaliLegdrop](data/KaliLegdrop-twitter-info)|818126854091485184|
-|[Name Changed](https://twitter.com/LilRock501_KU)|[@LilRock501\_KU](data/LilRock501_KU-twitter-info)|2656250317|
 |[Name Changed](https://twitter.com/meaffa)|[@meaffa](data/meaffa-twitter-info)|1187697893785755648|
 |[Name Changed](https://twitter.com/meappaa)|[@meappaa](data/meappaa-twitter-info)|1187697893785755648|
 |[Name Changed](https://twitter.com/newaustinite)|[@newaustinite](data/newaustinite-twitter-info)|181782082|
 |[Name Changed](https://twitter.com/NWANTIFATAC)|[@NWANTIFATAC](data/NWANTIFATAC-twitter-info)|1056368950190202880|
-|[Name Changed](https://twitter.com/realGibbs_KU)|[@realGibbs\_KU](data/realGibbs_KU-twitter-info)|2656250317|
-|[Name Changed](https://twitter.com/ResistAntifa_KU)|[@ResistAntifa\_KU](data/ResistAntifa_KU-twitter-info)|2656250317|
 |[Name Changed](https://twitter.com/SFAntifa)|[@SFAntifa](data/SFAntifa-twitter-info)|850165175038525441|
 |[Name Changed](https://twitter.com/STexasAntifa)|[@STexasAntifa](data/STexasAntifa-twitter-info)|864299780364783616|
 |[Name Changed](https://twitter.com/Tactual100)|[@Tactual100](data/Tactual100-twitter-info)|848040384039067648|
@@ -331,7 +325,7 @@ Users that are currently branded as non-antifa had previous posed as antifa on t
 |[Suspended](https://twitter.com/AntifaCabo)|[@AntifaCabo](data/AntifaCabo-twitter-info)|940613263783444481|
 |[Suspended](https://twitter.com/AntifaCambridge)|[@AntifaCambridge](data/AntifaCambridge-twitter-info)|848373904020312065|
 |[Suspended](https://twitter.com/AntifaCentCom)|[@AntifaCentCom](data/AntifaCentCom-twitter-info)|847983213574225920|
-|[Suspended](https://twitter.com/AntifaCHECKUS)|[@AntifaCHECKUS](data/AntifaCHECKUS-twitter-info)|879158440395849728|
+|[Suspended](https://twitter.com/AntifaCHEC7S)|[@AntifaCHECKUS](data/AntifaCHECKUS-twitter-info)|879158440395849728|
 |[Suspended](https://twitter.com/AntifaChicago)|[@AntifaChicago](data/AntifaChicago-twitter-info)|849836820942684162|
 |[Suspended](https://twitter.com/AntifaCloud)|[@AntifaCloud](data/AntifaCloud-twitter-info)|855656246552219648|
 |[Suspended](https://twitter.com/AntifaCommunity)|[@AntifaCommunity](data/AntifaCommunity-twitter-info)|843891448915398658|

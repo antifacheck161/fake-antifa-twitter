@@ -60,38 +60,38 @@ For any updates or corrections please email us: antifacheck161@protonmail.com
 
 ## Resources:
 
-Visualizing Cyber Harassment - Erin Gallagher -  Feb. 25, 2021
+Visualizing Cyber Harassment - Erin Gallagher -  Feb. 25, 2021  
 https://medium.com/swlh/visualizing-cyber-harassment-7c4cad50bc8c
 
-Butterfly Attack: The Origins of Fake Antifa Social Media Accounts - Erin Gallagher - Oct. 9, 2020
+Butterfly Attack: The Origins of Fake Antifa Social Media Accounts - Erin Gallagher - Oct. 9, 2020  
 https://mediamanipulation.org/case-studies/butterfly-attack-origins-fake-antifa-social-media-accounts
 
-@AntifaChecker twitter block list - blocktogether.org - June 1, 2020
+@AntifaChecker twitter block list - blocktogether.org - June 1, 2020  
 https://archive.ph/c0Dhq
 
-A List of 420+ Fake Antifa Accounts on Social Media - Subcomandante X - Aug. 19, 2019
+A List of 420+ Fake Antifa Accounts on Social Media - Subcomandante X - Aug. 19, 2019  
 https://medium.com/americanodyssey/list-of-fake-antifa-accounts-on-social-media-trolls-1df2e7348d7c
 
-#FakeAntifa and Associates Social Media Accounts - American Odyssey - Aug. 6, 2019
+#FakeAntifa and Associates Social Media Accounts - American Odyssey - Aug. 6, 2019  
 https://docs.google.com/spreadsheets/d/1UByF4_lEd3wYKxHi1tPjLK8OftKltERfsPR-bLUhDnI/edit#gid=0
 
-ALT RIGHT BOTS KNOWINGLY SPREADING MISINFORMATION AND HATEFUL CONTENT ON TWITTER - Dec. 25, 2017
+ALT RIGHT BOTS SPREADING MISINFORMATION AND HATEFUL CONTENT ON TWITTER - Dec. 25, 2017  
 https://archive.ph/3R0AD
 
-Conspirator0 Tweet of Fake AFA images - Sept. 28, 2017
+Conspirator0 Tweet of Fake AFA images - Sept. 28, 2017  
 https://twitter.com/conspirator0/status/913561149773316096
 
-List of Fake Antifa Accounts on Twitter - Aug 21, 2017
+List of Fake Antifa Accounts on Twitter - Aug 21, 2017  
 https://archive.ph/joytq
 
-To Troll a Movement: A List of 320+ Fake Antifa Accounts on Social Media - Conspirator0 - Aug 21, 2017
+To Troll a Movement: A List of 320+ Fake Antifa Accounts on Social Media - Conspirator0 - Aug 21, 2017  
 https://web.archive.org/web/20180922093823/https://geomovements.com/list-of-fake-antifa-accounts-on-twitter-f8f8f14c4bf9
 
-OpWolverines 2017 Fake Antifa Spreadsheet - Aug. 2017
+OpWolverines 2017 Fake Antifa Spreadsheet - Aug. 2017  
 https://docs.google.com/spreadsheets/d/1X1u0Jg70osnq8zdSNz2QlZwagnrTSOhfgwwyvqpbrRE/htmlview#
 
-Fake Antifa Twitter - Erin Gallagher - July 18, 2017
+Fake Antifa Twitter - Erin Gallagher - July 18, 2017  
 https://erin-gallagher.medium.com/fake-antifa-twitter-be3a05f4d2ca
 
-2017 Fake Antifa accounts image - @RVAwonk - Caroline Orr - Apr 25, 2017
+2017 Fake Antifa accounts image - @RVAwonk - Caroline Orr - Apr 25, 2017  
 https://twitter.com/RVAwonk/status/857011182988873728

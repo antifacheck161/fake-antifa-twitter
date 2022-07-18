@@ -4,7 +4,8 @@ We identify bad actor / fake antifascist accounts and follow verified antifascis
 
 
 ## Block List - Bad / Fake Antifa Accounts
-[List of accounts](BAD-AFA-list.md)
+[List of accounts](BAD-AFA-list.md) [txt fornat for use with RedBlock](https://gist.github.com/antifacheck161/156c02e786fa4eeba4f1c588494fd6e8)
+
 
 
 ## Submissions:

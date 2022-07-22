@@ -1,20 +1,22 @@
-Users that are currently branded as non-antifa had previously posed as antifa on their account.
+Users that are currently branded as non-antifa had previously posed as antifa on their account.  
 
-| Status              | Handle                  | ID                   |
+| Handle               | ID                  | Status                   |
 | -------------------- | ------------------- | ------------------------ |
-|[Active](https://twitter.com/AntiFacistUSA)|[@AntiFacistUSA](data/AntiFacistUSA-twitter-info)|827818941972115456|
-|[Active](https://twitter.com/antifatoronto)|[@antifatoronto](data/antifatoronto-twitter-info)|1472034706451361795|
-|[Active](https://twitter.com/ArmedAntifa)|[@ArmedAntifa](data/ArmedAntifa-twitter-info)|1541197658823565314|
-|[Active](https://twitter.com/Bill_Hogarth)|[@Bill\_Hogarth](data/Bill_Hogarth-twitter-info)|601029755|
+|[Active](https://twitter.com/IrishAntifa)|[@IrishAntifa](data/IrishAntifa-twitter-info)|1204214253953191937|
 |[Active](https://twitter.com/Dr_Shitdick)|[@Dr\_Shitdick](data/Dr_Shitdick-twitter-info)|832422851005313024|
-|[Active](https://twitter.com/IdeologyWars)|[@IdeologyWars](data/IdeologyWars-twitter-info)|816039689127739392|
-|[Active](https://twitter.com/JohnDan27444889)|[@JohnDan27444889](data/JohnDan27444889-twitter-info)|1454497499637555212|
-|[Active](https://twitter.com/NashvilleAntifa)|[@NashvilleAntifa](data/NashvilleAntifa-twitter-info)|820888747030016000|
-|[Active](https://twitter.com/nursehater1312)|[@nursehater1312](data/nursehater1312-twitter-info)|1444146572514656259|
-|[Active](https://twitter.com/outsideantifa)|[@outsideantifa](data/outsideantifa-twitter-info)|1492676056758767619|
-|[Active](https://twitter.com/Tombstone1954)|[@Tombstone1954](data/Tombstone1954-twitter-info)|902156160945573890|
-|[Active](https://twitter.com/WokeHillbillyTn)|[@WokeHillbillyTn](data/WokeHillbillyTn-twitter-info)|888609790188040193|
+|[Active](https://twitter.com/AntiFacistUSA)|[@AntiFacistUSA](data/AntiFacistUSA-twitter-info)|827818941972115456|
+|[Active](https://twitter.com/Bill_Hogarth)|[@Bill\_Hogarth](data/Bill_Hogarth-twitter-info)|601029755|
 |[Active](https://twitter.com/yzameaw)|[@yzameaw](data/yzameaw-twitter-info)|1187697893785755648|
+|[Active](https://twitter.com/IdeologyWars)|[@IdeologyWars](data/IdeologyWars-twitter-info)|816039689127739392|
+|[Active](https://twitter.com/nursehater1312)|[@nursehater1312](data/nursehater1312-twitter-info)|1444146572514656259|
+|[Active](https://twitter.com/ArmedAntifa)|[@ArmedAntifa](data/ArmedAntifa-twitter-info)|1541197658823565314|
+|[Active](https://twitter.com/Tombstone1954)|[@Tombstone1954](data/Tombstone1954-twitter-info)|902156160945573890|
+|[Active](https://twitter.com/outsideantifa)|[@outsideantifa](data/outsideantifa-twitter-info)|1492676056758767619|
+|[Active](https://twitter.com/WokeHillbillyTn)|[@WokeHillbillyTn](data/WokeHillbillyTn-twitter-info)|888609790188040193|
+|[Active](https://twitter.com/NashvilleAntifa)|[@NashvilleAntifa](data/NashvilleAntifa-twitter-info)|820888747030016000|
+|[Active](https://twitter.com/antifatoronto)|[@antifatoronto](data/antifatoronto-twitter-info)|1472034706451361795|
+|[Active](https://twitter.com/AntifaOr)|[@AntifaOr](data/AntifaOr-twitter-info)|1304520055649169409|
+|[Active](https://twitter.com/JohnDan27444889)|[@JohnDan27444889](data/JohnDan27444889-twitter-info)|1454497499637555212|
 |[Inactive](https://twitter.com/AcadianaAntifa)|[@AcadianaAntifa](data/AcadianaAntifa-twitter-info)|821101105757163524|
 |[Inactive](https://twitter.com/Adolf51358892)|[@Adolf51358892](data/Adolf51358892-twitter-info)|953341314925584384|
 |[Inactive](https://twitter.com/afadjursholm)|[@afadjursholm](data/afadjursholm-twitter-info)|881598380396466176|
@@ -37,7 +39,6 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Inactive](https://twitter.com/antifabuffaloNY)|[@antifabuffaloNY](data/antifabuffaloNY-twitter-info)|827490970338000896|
 |[Inactive](https://twitter.com/AntifaCAL)|[@AntifaCAL](data/AntifaCAL-twitter-info)|908520493413625856|
 |[Inactive](https://twitter.com/AntifaCaliO)|[@AntifaCaliO](data/AntifaCaliO-twitter-info)|936637308480077824|
-|[Inactive](https://twitter.com/AntifaCheck)|[@AntifaCheck](data/AntifaCheck-twitter-info)|861719023318446080|
 |[Inactive](https://twitter.com/AntifaDallas)|[@AntifaDallas](data/AntifaDallas-twitter-info)|856881648880812033|
 |[Inactive](https://twitter.com/AntifaDenmark)|[@AntifaDenmark](data/AntifaDenmark-twitter-info)|900589371610415104|
 |[Inactive](https://twitter.com/AntifaFinland)|[@AntifaFinland](data/AntifaFinland-twitter-info)|1211305786313306114|
@@ -139,132 +140,107 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Inactive](https://twitter.com/WorcesterAntifa)|[@WorcesterAntifa](data/WorcesterAntifa-twitter-info)|911596648270360576|
 |[Inactive](https://twitter.com/worldwideantifa)|[@worldwideantifa](data/worldwideantifa-twitter-info)|913475001269047299|
 |[Inactive](https://twitter.com/zeroinonantifa)|[@zeroinonantifa](data/zeroinonantifa-twitter-info)|4805367912|
-|[Deleted](https://twitter.com/1zig6zag1)|[@1zig6zag1](data/1zig6zag1-twitter-info)|1499276083505553411|
-|[Deleted](https://twitter.com/alaztekiyyah)|[@alaztekiyyah](data/alaztekiyyah-twitter-info)|940648790050172929|
-|[Deleted](https://twitter.com/antifa__ny)|[@antifa\_\_ny](data/antifa__ny-twitter-info)|1143316962694639616|
-|[Deleted](https://twitter.com/AntifaAnchorage)|[@AntifaAnchorage](data/AntifaAnchorage-twitter-info)|847761800099581952|
-|[Deleted](https://twitter.com/AntifaAnchorGE)|[@AntifaAnchorGE](data/AntifaAnchorGE-twitter-info)|847761800099581952|
-|[Deleted](https://twitter.com/AntifaCobb)|[@AntifaCobb](data/AntifaCobb-twitter-info)|908687679293968385|
-|[Deleted](https://twitter.com/AntifaDumpster)|[@AntifaDumpster](data/AntifaDumpster-twitter-info)|857400234946818048|
-|[Deleted](https://twitter.com/AntifaHolyG)|[@AntifaHolyG](data/AntifaHolyG-twitter-info)|871480010288369667|
-|[Deleted](https://twitter.com/AntifaHonolulu)|[@AntifaHonolulu](data/AntifaHonolulu-twitter-info)|911955276776955905|
-|[Deleted](https://twitter.com/AntifaLousiana)|[@AntifaLousiana](data/AntifaLousiana-twitter-info)|897279041308327936|
-|[Deleted](https://twitter.com/AntifaNorthwest)|[@AntifaNorthwest](data/AntifaNorthwest-twitter-info)|847720091085021186|
-|[Deleted](https://twitter.com/AntifaOslo)|[@AntifaOslo](data/AntifaOslo-twitter-info)|1180773732111048704|
-|[Deleted](https://twitter.com/AntifaTaunus)|[@AntifaTaunus](data/AntifaTaunus-twitter-info)|847751023401644033|
-|[Deleted](https://twitter.com/AntifaUSAnet)|[@AntifaUSAnet](data/AntifaUSAnet-twitter-info)|1169344502898671616|
-|[Deleted](https://twitter.com/AntifaUSAorg)|[@AntifaUSAorg](data/AntifaUSAorg-twitter-info)|1169344502898671616|
-|[Deleted](https://twitter.com/AntifaYoung)|[@AntifaYoung](data/AntifaYoung-twitter-info)|1242873845419315201|
-|[Deleted](https://twitter.com/ArrowsDown161)|[@ArrowsDown161](data/ArrowsDown161-twitter-info)|803877035693264897|
-|[Deleted](https://twitter.com/Aspen_ANTIFA)|[@Aspen\_ANTIFA](data/Aspen_ANTIFA-twitter-info)|848004257299271681|
-|[Deleted](https://twitter.com/baldi161)|[@baldi161](data/baldi161-twitter-info)|1487195229769846797|
-|[Deleted](https://twitter.com/BasedDumpster)|[@BasedDumpster](data/BasedDumpster-twitter-info)|857400234946818048|
-|[Deleted](https://twitter.com/BelfastAntiFash)|[@BelfastAntiFash](data/BelfastAntiFash-twitter-info)|883573988080930816|
-|[Deleted](https://twitter.com/BitcoinAntifa)|[@BitcoinAntifa](data/BitcoinAntifa-twitter-info)|926620198269894656|
-|[Deleted](https://twitter.com/Burnt237)|[@Burnt237](data/Burnt237-twitter-info)|915827041139904513|
-|[Deleted](https://twitter.com/Burnt246)|[@Burnt246](data/Burnt246-twitter-info)|915827041139904513|
-|[Deleted](https://twitter.com/Burnt247)|[@Burnt247](data/Burnt247-twitter-info)|915827041139904513|
-|[Deleted](https://twitter.com/CambridgeAntifa)|[@CambridgeAntifa](data/CambridgeAntifa-twitter-info)|4872202168|
-|[Deleted](https://twitter.com/CapitalAntifa)|[@CapitalAntifa](data/CapitalAntifa-twitter-info)|902803099957506048|
-|[Deleted](https://twitter.com/ChinaJoeBiden)|[@ChinaJoeBiden](data/ChinaJoeBiden-twitter-info)|901093416267911174|
-|[Deleted](https://twitter.com/CointelAntifa)|[@CointelAntifa](data/CointelAntifa-twitter-info)|915827041139904513|
-|[Deleted](https://twitter.com/CointelproAntif)|[@CointelproAntif](data/CointelproAntif-twitter-info)|915827041139904513|
-|[Deleted](https://twitter.com/ComptonAntifa)|[@ComptonAntifa](data/ComptonAntifa-twitter-info)|849541771940044802|
-|[Deleted](https://twitter.com/DavefilmsUs)|[@DavefilmsUs](data/DavefilmsUs-twitter-info)|62689793|
-|[Deleted](https://twitter.com/DCAntifa)|[@DCAntifa](data/DCAntifa-twitter-info)|902803099957506048|
-|[Deleted](https://twitter.com/Dedlex2)|[@Dedlex2](data/Dedlex2-twitter-info)|915827041139904513|
-|[Deleted](https://twitter.com/DentonAntifa)|[@DentonAntifa](data/DentonAntifa-twitter-info)|849653480377733120|
-|[Deleted](https://twitter.com/dltd2022act)|[@dltd2022act](data/dltd2022act-twitter-info)|1530015262249984009|
-|[Deleted](https://twitter.com/DixHillsAntifa)|[@DixHillsAntifa](data/DixHillsAntifa-twitter-info)|877529140181839873|
-|[Deleted](https://twitter.com/dltdacct2022)|[@dltdacct2022](data/dltdacct2022-twitter-info)|1499276083505553411|
-|[Deleted](https://twitter.com/DSA_ImWithHer)|[@DSA\_ImWithHer](data/DSA_ImWithHer-twitter-info)|940648790050172929|
-|[Deleted](https://twitter.com/EdinaAntifa)|[@EdinaAntifa](data/EdinaAntifa-twitter-info)|930848259861598209|
-|[Deleted](https://twitter.com/Elementary4321)|[@Elementary4321](data/Elementary4321-twitter-info)|901914653751742466|
-|[Deleted](https://twitter.com/EuropeAntifa)|[@EuropeAntifa](data/EuropeAntifa-twitter-info)|712139540274614272|
-|[Deleted](https://twitter.com/f1sc6iai1vento)|[@f1sc6iai1vento](data/f1sc6iai1vento-twitter-info)|1411972061283635202|
-|[Deleted](https://twitter.com/FitzgeraldDonut)|[@FitzgeraldDonut](data/FitzgeraldDonut-twitter-info)|751639470529798144|
-|[Deleted](https://twitter.com/HillbillyAntifa)|[@HillbillyAntifa](data/HillbillyAntifa-twitter-info)|780318123090063360|
-|[Deleted](https://twitter.com/HyruleAntifa)|[@HyruleAntifa](data/HyruleAntifa-twitter-info)|903598607445712896|
-|[Deleted](https://twitter.com/inglaterranuova)|[@inglaterranuova](data/inglaterranuova-twitter-info)|327793692|
-|[Deleted](https://twitter.com/inu161)|[@inu161](data/inu161-twitter-info)|897954452157681700|
-|[Deleted](https://twitter.com/Inu161)|[@Inu161](data/Inu161-twitter-info)|1111447447450976256|
-|[Deleted](https://twitter.com/IsraeliAntifa)|[@IsraeliAntifa](data/IsraeliAntifa-twitter-info)|902803099957506048|
-|[Deleted](https://twitter.com/Josephs84904576)|[@Josephs84904576](data/Josephs84904576-twitter-info)|847947128160649216|
-|[Deleted](https://twitter.com/just8anapple)|[@just8anapple](data/just8anapple-twitter-info)|728229632714100736|
-|[Deleted](https://twitter.com/KaczynskiAntifa)|[@KaczynskiAntifa](data/KaczynskiAntifa-twitter-info)|915827041139904513|
-|[Deleted](https://twitter.com/kamotverdaia)|[@kamotverdaia](data/kamotverdaia-twitter-info)|1476709661889941510|
-|[Deleted](https://twitter.com/krma161isabitch)|[@krma161isabitch](data/krma161isabitch-twitter-info)|1417751560944295938|
-|[Deleted](https://twitter.com/laquincebrigada)|[@laquincebrigada](data/laquincebrigada-twitter-info)|1416276371316174848|
-|[Deleted](https://twitter.com/MalibuAntifa2)|[@MalibuAntifa2](data/MalibuAntifa2-twitter-info)|1060717353267290113|
-|[Deleted](https://twitter.com/MalibuAntifa3)|[@MalibuAntifa3](data/MalibuAntifa3-twitter-info)|1060717353267290113|
-|[Deleted](https://twitter.com/MamaAntifa)|[@MamaAntifa](data/MamaAntifa-twitter-info)|901093416267911174|
-|[Deleted](https://twitter.com/MaplBluffANTIFA)|[@MaplBluffANTIFA](data/MaplBluffANTIFA-twitter-info)|848001975660814336|
-|[Deleted](https://twitter.com/marwencolrbo)|[@marwencolrbo](data/marwencolrbo-twitter-info)|1411972061283635202|
-|[Deleted](https://twitter.com/MAXIMEDELATTC)|[@MAXIMEDELATTC](data/MAXIMEDELATTC-twitter-info)|702650304513368065|
-|[Deleted](https://twitter.com/Misk161)|[@Misk161](data/Misk161-twitter-info)|803877035693264897|
-|[Deleted](https://twitter.com/Nazipuncher_69)|[@Nazipuncher\_69](data/Nazipuncher_69-twitter-info)|924347641126948865|
-|[Deleted](https://twitter.com/NewcastleAntifa)|[@NewcastleAntifa](data/NewcastleAntifa-twitter-info)|892379002903699456|
-|[Deleted](https://twitter.com/nome__n__escio)|[@nome\_\_n\_\_escio](data/nome__n__escio-twitter-info)|1417751560944295938|
-|[Deleted](https://twitter.com/nome_n_escio)|[@nome\_n\_escio](data/nome_n_escio-twitter-info)|1417751560944295938|
-|[Deleted](https://twitter.com/Novanglus161)|[@Novanglus161](data/Novanglus161-twitter-info)|1325955943566364672|
-|[Deleted](https://twitter.com/OxnardAntifa)|[@OxnardAntifa](data/OxnardAntifa-twitter-info)|1064544756041244672|
-|[Deleted](https://twitter.com/OxnardAntifa2)|[@OxnardAntifa2](data/OxnardAntifa2-twitter-info)|1064544756041244672|
-|[Deleted](https://twitter.com/PaloAltoAntifa)|[@PaloAltoAntifa](data/PaloAltoAntifa-twitter-info)|848240593998237698|
-|[Deleted](https://twitter.com/PVAntifa3)|[@PVAntifa3](data/PVAntifa3-twitter-info)|1055273311540834304|
-|[Deleted](https://twitter.com/RealAntifa101)|[@RealAntifa101](data/RealAntifa101-twitter-info)|902823644921024512|
-|[Deleted](https://twitter.com/red161partisan)|[@red161partisan](data/red161partisan-twitter-info)|1386757788106248194|
-|[Deleted](https://twitter.com/SanJoseAntifa)|[@SanJoseAntifa](data/SanJoseAntifa-twitter-info)|848749151663792129|
-|[Deleted](https://twitter.com/shafiishawty)|[@shafiishawty](data/shafiishawty-twitter-info)|940648790050172929|
-|[Deleted](https://twitter.com/SJAntifa)|[@SJAntifa](data/SJAntifa-twitter-info)|803877035693264897|
-|[Deleted](https://twitter.com/StarfleetAntifa)|[@StarfleetAntifa](data/StarfleetAntifa-twitter-info)|908449305928830976|
-|[Deleted](https://twitter.com/TruthsFreeAgain)|[@TruthsFreeAgain](data/TruthsFreeAgain-twitter-info)|902823644921024512|
-|[Deleted](https://twitter.com/TxPaso)|[@TxPaso](data/TxPaso-twitter-info)|1032649284351606784|
-|[Deleted](https://twitter.com/UnibomberAntifa)|[@UnibomberAntifa](data/UnibomberAntifa-twitter-info)|915827041139904513|
-|[Deleted](https://twitter.com/VancouverAntifa)|[@VancouverAntifa](data/VancouverAntifa-twitter-info)|847947128160649216|
-|[Deleted](https://twitter.com/WashakieAntifa)|[@WashakieAntifa](data/WashakieAntifa-twitter-info)|903734500349194240|
-|[Deleted](https://twitter.com/WayneHo07899148)|[@WayneHo07899148](data/WayneHo07899148-twitter-info)|901914653751742466|
-|[Deleted](https://twitter.com/WolftrapAF)|[@WolftrapAF](data/WolftrapAF-twitter-info)|803877035693264897|
-|[Deleted](https://twitter.com/YoungAnarchistt)|[@YoungAnarchistt](data/YoungAnarchistt-twitter-info)|1242873845419315201|
-|[Deleted](https://twitter.com/zig161zag)|[@zig161zag](data/zig161zag-twitter-info)|1325955943566364672|
-|[Deleted](https://twitter.com/zig161zag)|[@zig161zag](data/zig161zag-twitter-info)|1530015262249984009|
-|[Deleted](https://twitter.com/zigzag161)|[@zigzag161](data/zigzag161-twitter-info)|1325955943566364672|
-|[Deleted](https://twitter.com/zigzagantifa)|[@zigzagantifa](data/zigzagantifa-twitter-info)|1386757788106248194|
-|[Deleted](https://twitter.com/zigzagantifa)|[@zigzagantifa](data/zigzagantifa-twitter-info)|1386757788106248200|
-|[Deleted](https://twitter.com/zz161zzz)|[@zz161zzz](data/zz161zzz-twitter-info)|1325955943566364|
-|[Deleted](https://twitter.com/zz161zzz)|[@zz161zzz](data/zz161zzz-twitter-info)|1325955943566364672|
-|[Deleted](https://twitter.com/zzz161zzz)|[@zzz161zzz](data/zzz161zzz-twitter-info)|1386757788106248194|
-|[Name Changed](https://twitter.com/AntEthereum)|[@AntEthereum](data/AntEthereum-twitter-info)|1012921731302871041|
-|[Name Changed](https://twitter.com/antifa_tiki)|[@antifa\_tiki](data/antifa_tiki-twitter-info)|896562774779846658|
-|[Name Changed](https://twitter.com/AntifaBinkys)|[@AntifaBinkys](data/AntifaBinkys-twitter-info)|902156160945573890|
-|[Name Changed](https://twitter.com/AntifaUtah)|[@AntifaUtah](data/AntifaUtah-twitter-info)|848040384039067648|
-|[Name Changed](https://twitter.com/baathsalt)|[@baathsalt](data/baathsalt-twitter-info)|818126854091485184|
-|[Name Changed](https://twitter.com/Bath_Antifa)|[@Bath\_Antifa](data/Bath_Antifa-twitter-info)|601029755|
-|[Name Changed](https://twitter.com/BCashAuntiFa)|[@BCashAuntiFa](data/BCashAuntiFa-twitter-info)|1012921731302871041|
-|[Name Changed](https://twitter.com/Brutaltism)|[@Brutaltism](data/Brutaltism-twitter-info)|818126854091485184|
-|[Name Changed](https://twitter.com/BuckheadAnita)|[@BuckheadAnita](data/BuckheadAnita-twitter-info)|847970588773818368|
-|[Name Changed](https://twitter.com/BuffaloAntifa)|[@BuffaloAntifa](data/BuffaloAntifa-twitter-info)|832422851005313024|
-|[Name Changed](https://twitter.com/burnantifa)|[@burnantifa](data/burnantifa-twitter-info)|4805367912|
-|[Name Changed](https://twitter.com/Dwakefield69)|[@Dwakefield69](data/Dwakefield69-twitter-info)|304697021|
-|[Name Changed](https://twitter.com/flraag)|[@flraag](data/flraag-twitter-info)|1187697893785755648|
-|[Name Changed](https://twitter.com/folouofficial)|[@folouofficial](data/folouofficial-twitter-info)|717914842481500160|
-|[Name Changed](https://twitter.com/FtBraggAntifa)|[@FtBraggAntifa](data/FtBraggAntifa-twitter-info)|897941021555924992|
-|[Name Changed](https://twitter.com/GoingGies)|[@GoingGies](data/GoingGies-twitter-info)|1328113068|
-|[Name Changed](https://twitter.com/HillaryCli2020)|[@HillaryCli2020](data/HillaryCli2020-twitter-info)|832422851005313024|
-|[Name Changed](https://twitter.com/IRV_Antifa)|[@IRV\_Antifa](data/IRV_Antifa-twitter-info)|816039689127739392|
-|[Name Changed](https://twitter.com/jawillerding)|[@jawillerding](data/jawillerding-twitter-info)|502446133|
-|[Name Changed](https://twitter.com/KaliLegdrop)|[@KaliLegdrop](data/KaliLegdrop-twitter-info)|818126854091485184|
-|[Name Changed](https://twitter.com/meaffa)|[@meaffa](data/meaffa-twitter-info)|1187697893785755648|
-|[Name Changed](https://twitter.com/meappaa)|[@meappaa](data/meappaa-twitter-info)|1187697893785755648|
-|[Name Changed](https://twitter.com/newaustinite)|[@newaustinite](data/newaustinite-twitter-info)|181782082|
-|[Name Changed](https://twitter.com/NWANTIFATAC)|[@NWANTIFATAC](data/NWANTIFATAC-twitter-info)|1056368950190202880|
-|[Name Changed](https://twitter.com/SFAntifa)|[@SFAntifa](data/SFAntifa-twitter-info)|850165175038525441|
-|[Name Changed](https://twitter.com/STexasAntifa)|[@STexasAntifa](data/STexasAntifa-twitter-info)|864299780364783616|
-|[Name Changed](https://twitter.com/Tactual100)|[@Tactual100](data/Tactual100-twitter-info)|848040384039067648|
-|[Name Changed](https://twitter.com/typical_twink)|[@typical\_twink](data/typical_twink-twitter-info)|818126854091485184|
-|[Name Changed](https://twitter.com/USASOCandProud)|[@USASOCandProud](data/USASOCandProud-twitter-info)|897941021555924992|
-|[Name Changed](https://twitter.com/UtahAntiFascist)|[@UtahAntiFascist](data/UtahAntiFascist-twitter-info)|832359419203768320|
+|[Deleted](https://twitter.com/i/user/1499276083505553411)|[@1zig6zag1](data/1zig6zag1-twitter-info)|1499276083505553411|
+|[Deleted](https://twitter.com/i/user/940648790050172929)|[@alaztekiyyah](data/alaztekiyyah-twitter-info)|940648790050172929|
+|[Deleted](https://twitter.com/i/user/1143316962694639616)|[@antifa\_\_ny](data/antifa__ny-twitter-info)|1143316962694639616|
+|[Deleted](https://twitter.com/i/user/847761800099581952)|[@AntifaAnchorage](data/AntifaAnchorage-twitter-info)|847761800099581952|
+|[Deleted](https://twitter.com/i/user/847761800099581952)|[@AntifaAnchorGE](data/AntifaAnchorGE-twitter-info)|847761800099581952|
+|[Deleted](https://twitter.com/i/user/908687679293968385)|[@AntifaCobb](data/AntifaCobb-twitter-info)|908687679293968385|
+|[Deleted](https://twitter.com/i/user/857400234946818048)|[@AntifaDumpster](data/AntifaDumpster-twitter-info)|857400234946818048|
+|[Deleted](https://twitter.com/i/user/871480010288369667)|[@AntifaHolyG](data/AntifaHolyG-twitter-info)|871480010288369667|
+|[Deleted](https://twitter.com/i/user/911955276776955905)|[@AntifaHonolulu](data/AntifaHonolulu-twitter-info)|911955276776955905|
+|[Deleted](https://twitter.com/i/user/900045181264642048)|[@AntifalasVegas](data/AntifalasVegas-twitter-info)|900045181264642048|
+|[Deleted](https://twitter.com/i/user/897279041308327936)|[@AntifaLousiana](data/AntifaLousiana-twitter-info)|897279041308327936|
+|[Deleted](https://twitter.com/i/user/847720091085021186)|[@AntifaNorthwest](data/AntifaNorthwest-twitter-info)|847720091085021186|
+|[Deleted](https://twitter.com/i/user/1180773732111048704)|[@AntifaOslo](data/AntifaOslo-twitter-info)|1180773732111048704|
+|[Deleted](https://twitter.com/i/user/847751023401644033)|[@AntifaTaunus](data/AntifaTaunus-twitter-info)|847751023401644033|
+|[Deleted](https://twitter.com/i/user/1169344502898671616)|[@AntifaUSAnet](data/AntifaUSAnet-twitter-info)|1169344502898671616|
+|[Deleted](https://twitter.com/i/user/1169344502898671616)|[@AntifaUSAorg](data/AntifaUSAorg-twitter-info)|1169344502898671616|
+|[Deleted](https://twitter.com/i/user/1242873845419315201)|[@AntifaYoung](data/AntifaYoung-twitter-info)|1242873845419315201|
+|[Deleted](https://twitter.com/i/user/803877035693264897)|[@ArrowsDown161](data/ArrowsDown161-twitter-info)|803877035693264897|
+|[Deleted](https://twitter.com/i/user/848004257299271681)|[@Aspen\_ANTIFA](data/Aspen_ANTIFA-twitter-info)|848004257299271681|
+|[Deleted](https://twitter.com/i/user/1487195229769846797)|[@baldi161](data/baldi161-twitter-info)|1487195229769846797|
+|[Deleted](https://twitter.com/i/user/857400234946818048)|[@BasedDumpster](data/BasedDumpster-twitter-info)|857400234946818048|
+|[Deleted](https://twitter.com/i/user/883573988080930816)|[@BelfastAntiFash](data/BelfastAntiFash-twitter-info)|883573988080930816|
+|[Deleted](https://twitter.com/i/user/926620198269894656)|[@BitcoinAntifa](data/BitcoinAntifa-twitter-info)|926620198269894656|
+|[Deleted](https://twitter.com/i/user/915827041139904513)|[@Burnt237](data/Burnt237-twitter-info)|915827041139904513|
+|[Deleted](https://twitter.com/i/user/915827041139904513)|[@Burnt246](data/Burnt246-twitter-info)|915827041139904513|
+|[Deleted](https://twitter.com/i/user/915827041139904513)|[@Burnt247](data/Burnt247-twitter-info)|915827041139904513|
+|[Deleted](https://twitter.com/i/user/4872202168)|[@CambridgeAntifa](data/CambridgeAntifa-twitter-info)|4872202168|
+|[Deleted](https://twitter.com/i/user/902803099957506048)|[@CapitalAntifa](data/CapitalAntifa-twitter-info)|902803099957506048|
+|[Deleted](https://twitter.com/i/user/901093416267911174)|[@ChinaJoeBiden](data/ChinaJoeBiden-twitter-info)|901093416267911174|
+|[Deleted](https://twitter.com/i/user/915827041139904513)|[@CointelAntifa](data/CointelAntifa-twitter-info)|915827041139904513|
+|[Deleted](https://twitter.com/i/user/915827041139904513)|[@CointelproAntif](data/CointelproAntif-twitter-info)|915827041139904513|
+|[Deleted](https://twitter.com/i/user/849541771940044802)|[@ComptonAntifa](data/ComptonAntifa-twitter-info)|849541771940044802|
+|[Deleted](https://twitter.com/i/user/62689793)|[@DavefilmsUs](data/DavefilmsUs-twitter-info)|62689793|
+|[Deleted](https://twitter.com/i/user/902803099957506048)|[@DCAntifa](data/DCAntifa-twitter-info)|902803099957506048|
+|[Deleted](https://twitter.com/i/user/915827041139904513)|[@Dedlex2](data/Dedlex2-twitter-info)|915827041139904513|
+|[Deleted](https://twitter.com/i/user/849653480377733120)|[@DentonAntifa](data/DentonAntifa-twitter-info)|849653480377733120|
+|[Deleted](https://twitter.com/i/user/877529140181839873)|[@DixHillsAntifa](data/DixHillsAntifa-twitter-info)|877529140181839873|
+|[Deleted](https://twitter.com/i/user/1530015262249984009)|[@dltd2022act](data/dltd2022act-twitter-info)|1530015262249984009|
+|[Deleted](https://twitter.com/i/user/1499276083505553411)|[@dltdacct2022](data/dltdacct2022-twitter-info)|1499276083505553411|
+|[Deleted](https://twitter.com/i/user/940648790050172929)|[@DSA\_ImWithHer](data/DSA_ImWithHer-twitter-info)|940648790050172929|
+|[Deleted](https://twitter.com/i/user/930848259861598209)|[@EdinaAntifa](data/EdinaAntifa-twitter-info)|930848259861598209|
+|[Deleted](https://twitter.com/i/user/901914653751742466)|[@Elementary4321](data/Elementary4321-twitter-info)|901914653751742466|
+|[Deleted](https://twitter.com/i/user/712139540274614272)|[@EuropeAntifa](data/EuropeAntifa-twitter-info)|712139540274614272|
+|[Deleted](https://twitter.com/i/user/1411972061283635202)|[@f1sc6iai1vento](data/f1sc6iai1vento-twitter-info)|1411972061283635202|
+|[Deleted](https://twitter.com/i/user/751639470529798144)|[@FitzgeraldDonut](data/FitzgeraldDonut-twitter-info)|751639470529798144|
+|[Deleted](https://twitter.com/i/user/862234525040087040)|[@FreeportAntifa](data/FreeportAntifa-twitter-info)|862234525040087040|
+|[Deleted](https://twitter.com/i/user/780318123090063360)|[@HillbillyAntifa](data/HillbillyAntifa-twitter-info)|780318123090063360|
+|[Deleted](https://twitter.com/i/user/903598607445712896)|[@HyruleAntifa](data/HyruleAntifa-twitter-info)|903598607445712896|
+|[Deleted](https://twitter.com/i/user/327793692)|[@inglaterranuova](data/inglaterranuova-twitter-info)|327793692|
+|[Deleted](https://twitter.com/i/user/1111447447450976256)|[@Inu161](data/Inu161-twitter-info)|1111447447450976256|
+|[Deleted](https://twitter.com/i/user/897954452157681700)|[@inu161](data/inu161-twitter-info)|897954452157681700|
+|[Deleted](https://twitter.com/i/user/902803099957506048)|[@IsraeliAntifa](data/IsraeliAntifa-twitter-info)|902803099957506048|
+|[Deleted](https://twitter.com/i/user/847947128160649216)|[@Josephs84904576](data/Josephs84904576-twitter-info)|847947128160649216|
+|[Deleted](https://twitter.com/i/user/728229632714100736)|[@just8anapple](data/just8anapple-twitter-info)|728229632714100736|
+|[Deleted](https://twitter.com/i/user/915827041139904513)|[@KaczynskiAntifa](data/KaczynskiAntifa-twitter-info)|915827041139904513|
+|[Deleted](https://twitter.com/i/user/1476709661889941510)|[@kamotverdaia](data/kamotverdaia-twitter-info)|1476709661889941510|
+|[Deleted](https://twitter.com/i/user/854432953484681217)|[@KoelnAntifa](data/KoelnAntifa-twitter-info)|854432953484681217|
+|[Deleted](https://twitter.com/i/user/1417751560944295938)|[@krma161isabitch](data/krma161isabitch-twitter-info)|1417751560944295938|
+|[Deleted](https://twitter.com/i/user/1416276371316174848)|[@laquincebrigada](data/laquincebrigada-twitter-info)|1416276371316174848|
+|[Deleted](https://twitter.com/i/user/862234525040087040)|[@MainePlumber77](data/MainePlumber77-twitter-info)|862234525040087040|
+|[Deleted](https://twitter.com/i/user/1060717353267290113)|[@MalibuAntifa2](data/MalibuAntifa2-twitter-info)|1060717353267290113|
+|[Deleted](https://twitter.com/i/user/1060717353267290113)|[@MalibuAntifa3](data/MalibuAntifa3-twitter-info)|1060717353267290113|
+|[Deleted](https://twitter.com/i/user/901093416267911174)|[@MamaAntifa](data/MamaAntifa-twitter-info)|901093416267911174|
+|[Deleted](https://twitter.com/i/user/848001975660814336)|[@MaplBluffANTIFA](data/MaplBluffANTIFA-twitter-info)|848001975660814336|
+|[Deleted](https://twitter.com/i/user/1411972061283635202)|[@marwencolrbo](data/marwencolrbo-twitter-info)|1411972061283635202|
+|[Deleted](https://twitter.com/i/user/702650304513368065)|[@MAXIMEDELATTC](data/MAXIMEDELATTC-twitter-info)|702650304513368065|
+|[Deleted](https://twitter.com/i/user/803877035693264897)|[@Misk161](data/Misk161-twitter-info)|803877035693264897|
+|[Deleted](https://twitter.com/i/user/924347641126948865)|[@Nazipuncher\_69](data/Nazipuncher_69-twitter-info)|924347641126948865|
+|[Deleted](https://twitter.com/i/user/892379002903699456)|[@NewcastleAntifa](data/NewcastleAntifa-twitter-info)|892379002903699456|
+|[Deleted](https://twitter.com/i/user/1417751560944295938)|[@nome\_\_n\_\_escio](data/nome__n__escio-twitter-info)|1417751560944295938|
+|[Deleted](https://twitter.com/i/user/1417751560944295938)|[@nome\_n\_escio](data/nome_n_escio-twitter-info)|1417751560944295938|
+|[Deleted](https://twitter.com/i/user/1325955943566364672)|[@Novanglus161](data/Novanglus161-twitter-info)|1325955943566364672|
+|[Deleted](https://twitter.com/i/user/1064544756041244672)|[@OxnardAntifa](data/OxnardAntifa-twitter-info)|1064544756041244672|
+|[Deleted](https://twitter.com/i/user/1064544756041244672)|[@OxnardAntifa2](data/OxnardAntifa2-twitter-info)|1064544756041244672|
+|[Deleted](https://twitter.com/i/user/848240593998237698)|[@PaloAltoAntifa](data/PaloAltoAntifa-twitter-info)|848240593998237698|
+|[Deleted](https://twitter.com/i/user/1055273311540834304)|[@PVAntifa3](data/PVAntifa3-twitter-info)|1055273311540834304|
+|[Deleted](https://twitter.com/i/user/902823644921024512)|[@RealAntifa101](data/RealAntifa101-twitter-info)|902823644921024512|
+|[Deleted](https://twitter.com/i/user/1386757788106248194)|[@red161partisan](data/red161partisan-twitter-info)|1386757788106248194|
+|[Deleted](https://twitter.com/i/user/848749151663792129)|[@SanJoseAntifa](data/SanJoseAntifa-twitter-info)|848749151663792129|
+|[Deleted](https://twitter.com/i/user/940648790050172929)|[@shafiishawty](data/shafiishawty-twitter-info)|940648790050172929|
+|[Deleted](https://twitter.com/i/user/803877035693264897)|[@SJAntifa](data/SJAntifa-twitter-info)|803877035693264897|
+|[Deleted](https://twitter.com/i/user/908449305928830976)|[@StarfleetAntifa](data/StarfleetAntifa-twitter-info)|908449305928830976|
+|[Deleted](https://twitter.com/i/user/902823644921024512)|[@TruthsFreeAgain](data/TruthsFreeAgain-twitter-info)|902823644921024512|
+|[Deleted](https://twitter.com/i/user/1032649284351606784)|[@TxPaso](data/TxPaso-twitter-info)|1032649284351606784|
+|[Deleted](https://twitter.com/i/user/915827041139904513)|[@UnibomberAntifa](data/UnibomberAntifa-twitter-info)|915827041139904513|
+|[Deleted](https://twitter.com/i/user/847947128160649216)|[@VancouverAntifa](data/VancouverAntifa-twitter-info)|847947128160649216|
+|[Deleted](https://twitter.com/i/user/903734500349194240)|[@WashakieAntifa](data/WashakieAntifa-twitter-info)|903734500349194240|
+|[Deleted](https://twitter.com/i/user/901914653751742466)|[@WayneHo07899148](data/WayneHo07899148-twitter-info)|901914653751742466|
+|[Deleted](https://twitter.com/i/user/803877035693264897)|[@WolftrapAF](data/WolftrapAF-twitter-info)|803877035693264897|
+|[Deleted](https://twitter.com/i/user/1242873845419315201)|[@YoungAnarchistt](data/YoungAnarchistt-twitter-info)|1242873845419315201|
+|[Deleted](https://twitter.com/i/user/1325955943566364672)|[@zig161zag](data/zig161zag-twitter-info)|1325955943566364672|
+|[Deleted](https://twitter.com/i/user/1530015262249984009)|[@zig161zag](data/zig161zag-twitter-info)|1530015262249984009|
+|[Deleted](https://twitter.com/i/user/1325955943566364672)|[@zigzag161](data/zigzag161-twitter-info)|1325955943566364672|
+|[Deleted](https://twitter.com/i/user/1386757788106248194)|[@zigzagantifa](data/zigzagantifa-twitter-info)|1386757788106248194|
+|[Deleted](https://twitter.com/i/user/1386757788106248200)|[@zigzagantifa](data/zigzagantifa-twitter-info)|1386757788106248200|
+|[Deleted](https://twitter.com/i/user/1325955943566364)|[@zz161zzz](data/zz161zzz-twitter-info)|1325955943566364|
+|[Deleted](https://twitter.com/i/user/1325955943566364672)|[@zz161zzz](data/zz161zzz-twitter-info)|1325955943566364672|
+|[Deleted](https://twitter.com/i/user/1386757788106248194)|[@zzz161zzz](data/zzz161zzz-twitter-info)|1386757788106248194|
 |[Suspended](https://twitter.com/_antifamousec)|[@\_antifamousec](data/_antifamousec-twitter-info)|1246024730441682944|
 |[Suspended](https://twitter.com/_TulipSniper_)|[@\_TulipSniper\_](data/_TulipSniper_-twitter-info)|389586180|
+|[Suspended](https://twitter.com/0FuxLeft)|[@0FuxLeft](data/0FuxLeft-twitter-info)|31046750|
 |[Suspended](https://twitter.com/405Antifa)|[@405Antifa](data/405Antifa-twitter-info)|854166718452609024|
 |[Suspended](https://twitter.com/420COAntiFa)|[@420COAntiFa](data/420COAntiFa-twitter-info)|854869218587574272|
 |[Suspended](https://twitter.com/90210Antifa10)|[@90210Antifa10](data/90210Antifa10-twitter-info)|1057107151498313728|
@@ -278,6 +254,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/antifa_bc)|[@antifa\_bc](data/antifa_bc-twitter-info)|847984597870583809|
 |[Suspended](https://twitter.com/antifa_berkeley)|[@antifa\_berkeley](data/antifa_berkeley-twitter-info)|871561257702141952|
 |[Suspended](https://twitter.com/Antifa_Butlins)|[@Antifa\_Butlins](data/Antifa_Butlins-twitter-info)|813142594964385793|
+|[Suspended](https://twitter.com/antifa_chicago )|[@antifa\_chicago ](data/antifa_chicago -twitter-info)|904965845394345985|
 |[Suspended](https://twitter.com/Antifa_ElPaso)|[@Antifa\_ElPaso](data/Antifa_ElPaso-twitter-info)|902287482095632384|
 |[Suspended](https://twitter.com/antifa_frisco)|[@antifa\_frisco](data/antifa_frisco-twitter-info)|1177990115018317825|
 |[Suspended](https://twitter.com/Antifa_Geezer)|[@Antifa\_Geezer](data/Antifa_Geezer-twitter-info)|863730391580114945|
@@ -307,6 +284,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/ANTIFA_US)|[@ANTIFA\_US](data/ANTIFA_US-twitter-info)|1267139011430068225|
 |[Suspended](https://twitter.com/antifa158)|[@antifa158](data/antifa158-twitter-info)|966464199462440960|
 |[Suspended](https://twitter.com/ANTIFA2018)|[@ANTIFA2018](data/ANTIFA2018-twitter-info)|906940496798474240|
+|[Suspended](https://twitter.com/Antifa4DSA)|[@Antifa4DSA](data/Antifa4DSA-twitter-info)|796441410069266449|
 |[Suspended](https://twitter.com/Antifa90210)|[@Antifa90210](data/Antifa90210-twitter-info)|848196242429685761|
 |[Suspended](https://twitter.com/AntifaAlpha)|[@AntifaAlpha](data/AntifaAlpha-twitter-info)|957999383513100289|
 |[Suspended](https://twitter.com/AntifaApache)|[@AntifaApache](data/AntifaApache-twitter-info)|928010490034507776|
@@ -324,10 +302,12 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/AntifaCabo)|[@AntifaCabo](data/AntifaCabo-twitter-info)|940613263783444481|
 |[Suspended](https://twitter.com/AntifaCambridge)|[@AntifaCambridge](data/AntifaCambridge-twitter-info)|848373904020312065|
 |[Suspended](https://twitter.com/AntifaCentCom)|[@AntifaCentCom](data/AntifaCentCom-twitter-info)|847983213574225920|
-|[Suspended](https://twitter.com/AntifaCHEC7S)|[@AntifaCHECKUS](data/AntifaCHECKUS-twitter-info)|879158440395849728|
+|[Suspended](https://twitter.com/AntifaCheck)|[@AntifaCheck](data/AntifaCheck-twitter-info)|861719023318446080|
+|[Suspended](https://twitter.com/AntifaCHECKUS)|[@AntifaCHECKUS](data/AntifaCHECKUS-twitter-info)|879158440395849728|
 |[Suspended](https://twitter.com/AntifaChicago)|[@AntifaChicago](data/AntifaChicago-twitter-info)|849836820942684162|
 |[Suspended](https://twitter.com/AntifaCloud)|[@AntifaCloud](data/AntifaCloud-twitter-info)|855656246552219648|
 |[Suspended](https://twitter.com/AntifaCommunity)|[@AntifaCommunity](data/AntifaCommunity-twitter-info)|843891448915398658|
+|[Suspended](https://twitter.com/AntifaComrade)|[@AntifaComrade](data/AntifaComrade-twitter-info)|903349847738257408|
 |[Suspended](https://twitter.com/AntifaComrade)|[@AntifaComrade](data/AntifaComrade-twitter-info)|903349847738257408|
 |[Suspended](https://twitter.com/AntifaDavos)|[@AntifaDavos](data/AntifaDavos-twitter-info)|848237023039283200|
 |[Suspended](https://twitter.com/AntifaDelMar)|[@AntifaDelMar](data/AntifaDelMar-twitter-info)|858174128150388736|
@@ -387,6 +367,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/AntifaMussolini)|[@AntifaMussolini](data/AntifaMussolini-twitter-info)|874997883568873474|
 |[Suspended](https://twitter.com/AntifaNantucket)|[@AntifaNantucket](data/AntifaNantucket-twitter-info)|952274270842966021|
 |[Suspended](https://twitter.com/antifanashville)|[@antifanashville](data/antifanashville-twitter-info)|850705664305487872|
+|[Suspended](https://twitter.com/AntifaOakville)|[@AntifaOakville](data/AntifaOakville-twitter-info)|904806276051423237|
 |[Suspended](https://twitter.com/ANTIFAOfAmerica)|[@ANTIFAOfAmerica](data/ANTIFAOfAmerica-twitter-info)|1198702207870234624|
 |[Suspended](https://twitter.com/AntifaOfficial)|[@AntifaOfficial](data/AntifaOfficial-twitter-info)|861262298660298752|
 |[Suspended](https://twitter.com/AntifaOfJackson)|[@AntifaOfJackson](data/AntifaOfJackson-twitter-info)|1489653888391262215|
@@ -407,6 +388,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/Antifasistisk)|[@Antifasistisk](data/Antifasistisk-twitter-info)|4437180073|
 |[Suspended](https://twitter.com/AntifaSoCal)|[@AntifaSoCal](data/AntifaSoCal-twitter-info)|848420004290625539|
 |[Suspended](https://twitter.com/AntifaSouth)|[@AntifaSouth](data/AntifaSouth-twitter-info)|879728950422982658|
+|[Suspended](https://twitter.com/AntifaSpokane)|[@AntifaSpokane](data/AntifaSpokane-twitter-info)|873754644903641089|
 |[Suspended](https://twitter.com/AntifaStockton)|[@AntifaStockton](data/AntifaStockton-twitter-info)|941689547691237376|
 |[Suspended](https://twitter.com/AntifaSydney)|[@AntifaSydney](data/AntifaSydney-twitter-info)|900190190433558528|
 |[Suspended](https://twitter.com/AntifaVillage)|[@AntifaVillage](data/AntifaVillage-twitter-info)|1028201152007950336|
@@ -420,12 +402,14 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/AskAntifa)|[@AskAntifa](data/AskAntifa-twitter-info)|847732222446542848|
 |[Suspended](https://twitter.com/AtlantaAntifa)|[@AtlantaAntifa](data/AtlantaAntifa-twitter-info)|849279726472617984|
 |[Suspended](https://twitter.com/AustinAntifa)|[@AustinAntifa](data/AustinAntifa-twitter-info)|847659164708913153|
+|[Suspended](https://twitter.com/Baghdad_Antifa)|[@Baghdad\_Antifa](data/Baghdad_Antifa-twitter-info)|865936712614203393|
 |[Suspended](https://twitter.com/BallengerAntifa)|[@BallengerAntifa](data/BallengerAntifa-twitter-info)|861993214265393152|
 |[Suspended](https://twitter.com/BarrowAntifa)|[@BarrowAntifa](data/BarrowAntifa-twitter-info)|848344916472115200|
 |[Suspended](https://twitter.com/baycityvince)|[@baycityvince](data/baycityvince-twitter-info)|927978051601944576|
 |[Suspended](https://twitter.com/BBAntifascists)|[@BBAntifascists](data/BBAntifascists-twitter-info)|909592904598921216|
 |[Suspended](https://twitter.com/BelAirAntifa)|[@BelAirAntifa](data/BelAirAntifa-twitter-info)|854850591402713088|
 |[Suspended](https://twitter.com/BelfastAntifa)|[@BelfastAntifa](data/BelfastAntifa-twitter-info)|873556752566030336|
+|[Suspended](https://twitter.com/Berkeleyantifa1)|[@Berkeleyantifa1](data/Berkeleyantifa1-twitter-info)|904772755345752066|
 |[Suspended](https://twitter.com/BeverlyHillsSoc)|[@BeverlyHillsSoc](data/BeverlyHillsSoc-twitter-info)|986645874674552833|
 |[Suspended](https://twitter.com/BevHillsAntifa)|[@BevHillsAntifa](data/BevHillsAntifa-twitter-info)|847356759270277125|
 |[Suspended](https://twitter.com/bevhillsantifa2)|[@bevhillsantifa2](data/bevhillsantifa2-twitter-info)|954384632740376576|
@@ -474,6 +458,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/DemSocAss)|[@DemSocAss](data/DemSocAss-twitter-info)|991478895839924225|
 |[Suspended](https://twitter.com/DickFuentes_)|[@DickFuentes\_](data/DickFuentes_-twitter-info)|879537891541745664|
 |[Suspended](https://twitter.com/diogenerous)|[@diogenerous](data/diogenerous-twitter-info)|906205660672663553|
+|[Suspended](https://twitter.com/DoggoRighto)|[@DoggoRighto](data/DoggoRighto-twitter-info)|885360095944691712|
 |[Suspended](https://twitter.com/DrJinx2)|[@DrJinx2](data/DrJinx2-twitter-info)|1164774877074608129|
 |[Suspended](https://twitter.com/DrJinx3)|[@DrJinx3](data/DrJinx3-twitter-info)|1177025845107412992|
 |[Suspended](https://twitter.com/Dustin27Antifa)|[@Dustin27Antifa](data/Dustin27Antifa-twitter-info)|850078397422198784|
@@ -496,6 +481,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/GeosMovements)|[@GeosMovements](data/GeosMovements-twitter-info)|372390458|
 |[Suspended](https://twitter.com/GitmoAntifa)|[@GitmoAntifa](data/GitmoAntifa-twitter-info)|904381809558999040|
 |[Suspended](https://twitter.com/GoatFishAntifa)|[@GoatFishAntifa](data/GoatFishAntifa-twitter-info)|1162262225165287424|
+|[Suspended](https://twitter.com/goatseAntifa)|[@goatseAntifa](data/goatseAntifa-twitter-info)|902971159209062401|
 |[Suspended](https://twitter.com/GreenwichAntiFa)|[@GreenwichAntiFa](data/GreenwichAntiFa-twitter-info)|847987449712312325|
 |[Suspended](https://twitter.com/GulfportAntfita)|[@GulfportAntfita](data/GulfportAntfita-twitter-info)|848710129851781125|
 |[Suspended](https://twitter.com/HairyAntifaGirl)|[@HairyAntifaGirl](data/HairyAntifaGirl-twitter-info)|854810311144218626|
@@ -542,6 +528,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/KekistanAntifa1)|[@KekistanAntifa1](data/KekistanAntifa1-twitter-info)|30458840|
 |[Suspended](https://twitter.com/KentuckyCommune)|[@KentuckyCommune](data/KentuckyCommune-twitter-info)|905983281283432448|
 |[Suspended](https://twitter.com/KeyWestAntifa)|[@KeyWestAntifa](data/KeyWestAntifa-twitter-info)|847981406991114241|
+|[Suspended](https://twitter.com/Khapaman)|[@Khapaman](data/Khapaman-twitter-info)|847645669867126788|
 |[Suspended](https://twitter.com/KingAntifa1)|[@KingAntifa1](data/KingAntifa1-twitter-info)|903084194829565953|
 |[Suspended](https://twitter.com/KingNiggardly)|[@KingNiggardly](data/KingNiggardly-twitter-info)|953035732230311936|
 |[Suspended](https://twitter.com/KKKAntifa)|[@KKKAntifa](data/KKKAntifa-twitter-info)|870035611436056576|
@@ -579,6 +566,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/MarkQuinton6)|[@MarkQuinton6](data/MarkQuinton6-twitter-info)|1151602756475596806|
 |[Suspended](https://twitter.com/MaxinePWaters)|[@MaxinePWaters](data/MaxinePWaters-twitter-info)|958381678296215554|
 |[Suspended](https://twitter.com/MaxineVVaters)|[@MaxineVVaters](data/MaxineVVaters-twitter-info)|77012250|
+|[Suspended](https://twitter.com/mcantifa)|[@mcantifa](data/mcantifa-twitter-info)|903386396013891584|
 |[Suspended](https://twitter.com/miami_antifa)|[@miami\_antifa](data/miami_antifa-twitter-info)|859283587077738496|
 |[Suspended](https://twitter.com/milwaukeantifa)|[@milwaukeantifa](data/milwaukeantifa-twitter-info)|899628329996890113|
 |[Suspended](https://twitter.com/MnAntifa)|[@MnAntifa](data/MnAntifa-twitter-info)|861911859447967745|
@@ -590,6 +578,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/nantucketantifa)|[@nantucketantifa](data/nantucketantifa-twitter-info)|854515109032603648|
 |[Suspended](https://twitter.com/napa_antifa)|[@napa\_antifa](data/napa_antifa-twitter-info)|1088884365856256000|
 |[Suspended](https://twitter.com/NatSocAntifa)|[@NatSocAntifa](data/NatSocAntifa-twitter-info)|902269246188789760|
+|[Suspended](https://twitter.com/NaziAntifa)|[@NaziAntifa](data/NaziAntifa-twitter-info)|822864222266818561|
 |[Suspended](https://twitter.com/NE_ANTIFA)|[@NE\_ANTIFA](data/NE_ANTIFA-twitter-info)|904748109951115264|
 |[Suspended](https://twitter.com/NevadaAntifa)|[@NevadaAntifa](data/NevadaAntifa-twitter-info)|848406182284886016|
 |[Suspended](https://twitter.com/NflAntifa)|[@NflAntifa](data/NflAntifa-twitter-info)|912140722588966912|
@@ -657,6 +646,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/SorosAntifa)|[@SorosAntifa](data/SorosAntifa-twitter-info)|925275426058113024|
 |[Suspended](https://twitter.com/StfxAntiFa)|[@StfxAntiFa](data/StfxAntiFa-twitter-info)|909886265742577664|
 |[Suspended](https://twitter.com/StKatAntifa)|[@StKatAntifa](data/StKatAntifa-twitter-info)|848585955657347072|
+|[Suspended](https://twitter.com/stockportAntifa)|[@stockportAntifa](data/stockportAntifa-twitter-info)|903257734405132289|
 |[Suspended](https://twitter.com/TedVaczynski)|[@TedVaczynski](data/TedVaczynski-twitter-info)|1079964066314051585|
 |[Suspended](https://twitter.com/TexarkanaAntifa)|[@TexarkanaAntifa](data/TexarkanaAntifa-twitter-info)|848302218633543680|
 |[Suspended](https://twitter.com/THEBLACKBANNON)|[@THEBLACKBANNON](data/THEBLACKBANNON-twitter-info)|908363242279333888|
@@ -692,140 +682,181 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/yespigeons)|[@yespigeons](data/yespigeons-twitter-info)|946204935485452289|
 |[Suspended](https://twitter.com/YorkvilleAntifa)|[@YorkvilleAntifa](data/YorkvilleAntifa-twitter-info)|849282441630146561|
 |[Suspended](https://twitter.com/zigzaglucyring)|[@zigzaglucyring](data/zigzaglucyring-twitter-info)|1328857860793483264|
-|[Suspended - Name Changed](https://twitter.com/__JHA_of_WY__)|[@\_\_JHA\_of\_WY\_\_](data/__JHA_of_WY__-twitter-info)|1295734882644131841|
-|[Suspended - Name Changed](https://twitter.com/__Snopes__)|[@\_\_Snopes\_\_](data/__Snopes__-twitter-info)|893214285547130880|
-|[Suspended - Name Changed](https://twitter.com/_Ymtise)|[@\_Ymtise](data/_Ymtise-twitter-info)|1060677324570611712|
-|[Suspended - Name Changed](https://twitter.com/1080skibunny)|[@1080skibunny](data/1080skibunny-twitter-info)|46504042|
-|[Suspended - Name Changed](https://twitter.com/A_ShockedMonkey)|[@A\_ShockedMonkey](data/A_ShockedMonkey-twitter-info)|893214285547130880|
-|[Suspended - Name Changed](https://twitter.com/AgawamAntifa)|[@AgawamAntifa](data/AgawamAntifa-twitter-info)|1001356331318743041|
-|[Suspended - Name Changed](https://twitter.com/Alex_s_Ashes)|[@Alex\_s\_Ashes](data/Alex_s_Ashes-twitter-info)|938456024993992705|
-|[Suspended - Name Changed](https://twitter.com/AlexNmeba)|[@AlexNmeba](data/AlexNmeba-twitter-info)|1162262225165287424|
-|[Suspended - Name Changed](https://twitter.com/Alexs_Ashes)|[@Alexs\_Ashes](data/Alexs_Ashes-twitter-info)|938456024993992705|
-|[Suspended - Name Changed](https://twitter.com/AmmonBundyRanch)|[@AmmonBundyRanch](data/AmmonBundyRanch-twitter-info)|946545904034697216|
-|[Suspended - Name Changed](https://twitter.com/AnthonyVVeiner)|[@AnthonyVVeiner](data/AnthonyVVeiner-twitter-info)|77012250|
-|[Suspended - Name Changed](https://twitter.com/AnticomPHL)|[@AnticomPHL](data/AnticomPHL-twitter-info)|914647870736883712|
-|[Suspended - Name Changed](https://twitter.com/ANTIFA_America)|[@ANTIFA\_America](data/ANTIFA_America-twitter-info)|1248073898412793858|
-|[Suspended - Name Changed](https://twitter.com/antifa_hamptons)|[@antifa\_hamptons](data/antifa_hamptons-twitter-info)|920959058995113985|
-|[Suspended - Name Changed](https://twitter.com/antifa_san)|[@antifa\_san](data/antifa_san-twitter-info)|1177990115018317825|
-|[Suspended - Name Changed](https://twitter.com/AntifaHQ)|[@AntifaHQ](data/AntifaHQ-twitter-info)|3240998492|
-|[Suspended - Name Changed](https://twitter.com/AntifaManhattan)|[@AntifaManhattan](data/AntifaManhattan-twitter-info)|910673270361481217|
-|[Suspended - Name Changed](https://twitter.com/AntifaofTheHole)|[@AntifaofTheHole](data/AntifaofTheHole-twitter-info)|1270499877911478272|
-|[Suspended - Name Changed](https://twitter.com/AntifaPatton)|[@AntifaPatton](data/AntifaPatton-twitter-info)|994616557421592576|
-|[Suspended - Name Changed](https://twitter.com/AntifaPD)|[@AntifaPD](data/AntifaPD-twitter-info)|855826472145178624|
-|[Suspended - Name Changed](https://twitter.com/AntifaSaltLake)|[@AntifaSaltLake](data/AntifaSaltLake-twitter-info)|863439245704175617|
-|[Suspended - Name Changed](https://twitter.com/antifashUS)|[@antifashUS](data/antifashUS-twitter-info)|1186364533058596864|
-|[Suspended - Name Changed](https://twitter.com/AntifaVacaville)|[@AntifaVacaville](data/AntifaVacaville-twitter-info)|848574024258998272|
-|[Suspended - Name Changed](https://twitter.com/ArizonaAntifa)|[@ArizonaAntifa](data/ArizonaAntifa-twitter-info)|828855385591123968|
-|[Suspended - Name Changed](https://twitter.com/ArmedAtrani)|[@ArmedAtrani](data/ArmedAtrani-twitter-info)|99467650|
-|[Suspended - Name Changed](https://twitter.com/AScarramucci)|[@AScarramucci](data/AScarramucci-twitter-info)|819770373537406976|
-|[Suspended - Name Changed](https://twitter.com/AsherahResearch)|[@AsherahResearch](data/AsherahResearch-twitter-info)|252409895|
-|[Suspended - Name Changed](https://twitter.com/AtheistSavant)|[@AtheistSavant](data/AtheistSavant-twitter-info)|953035732230311936|
-|[Suspended - Name Changed](https://twitter.com/BadGuyVince)|[@BadGuyVince](data/BadGuyVince-twitter-info)|77012250|
-|[Suspended - Name Changed](https://twitter.com/BBAntifacists)|[@BBAntifacists](data/BBAntifacists-twitter-info)|909592904598921216|
-|[Suspended - Name Changed](https://twitter.com/BeachAntifa)|[@BeachAntifa](data/BeachAntifa-twitter-info)|946204935485452289|
-|[Suspended - Name Changed](https://twitter.com/bidenisaliar)|[@bidenisaliar](data/bidenisaliar-twitter-info)|946204935485452289|
-|[Suspended - Name Changed](https://twitter.com/BigBoyBobAntifa)|[@BigBoyBobAntifa](data/BigBoyBobAntifa-twitter-info)|1082675175584354304|
-|[Suspended - Name Changed](https://twitter.com/bij1geraapt)|[@bij1geraapt](data/bij1geraapt-twitter-info)|925275426058113024|
-|[Suspended - Name Changed](https://twitter.com/BlueBobAntifa)|[@BlueBobAntifa](data/BlueBobAntifa-twitter-info)|1082675175584354304|
-|[Suspended - Name Changed](https://twitter.com/BobPolockRoss)|[@BobPolockRoss](data/BobPolockRoss-twitter-info)|1145601060|
-|[Suspended - Name Changed](https://twitter.com/BOBSABADBOY)|[@BOBSABADBOY](data/BOBSABADBOY-twitter-info)|894304515054239744|
-|[Suspended - Name Changed](https://twitter.com/BobsB1gBoyDubai)|[@BobsB1gBoyDubai](data/BobsB1gBoyDubai-twitter-info)|1060677324570611712|
-|[Suspended - Name Changed](https://twitter.com/BObsBigB0yDubai)|[@BObsBigB0yDubai](data/BObsBigB0yDubai-twitter-info)|894304515054239744|
-|[Suspended - Name Changed](https://twitter.com/BowtownAntifa)|[@BowtownAntifa](data/BowtownAntifa-twitter-info)|861818257321455617|
-|[Suspended - Name Changed](https://twitter.com/Bronze_Benis)|[@Bronze\_Benis](data/Bronze_Benis-twitter-info)|1527758909968195584|
-|[Suspended - Name Changed](https://twitter.com/Burnt_Notion)|[@Burnt\_Notion](data/Burnt_Notion-twitter-info)|1082675175584354304|
-|[Suspended - Name Changed](https://twitter.com/Burnt238)|[@Burnt238](data/Burnt238-twitter-info)|938456024993992705|
-|[Suspended - Name Changed](https://twitter.com/burnt239)|[@burnt239](data/burnt239-twitter-info)|938456024993992705|
-|[Suspended - Name Changed](https://twitter.com/Burnt240)|[@Burnt240](data/Burnt240-twitter-info)|938456024993992705|
-|[Suspended - Name Changed](https://twitter.com/Burnt248)|[@Burnt248](data/Burnt248-twitter-info)|1082675175584354304|
-|[Suspended - Name Changed](https://twitter.com/CampusAntifa)|[@CampusAntifa](data/CampusAntifa-twitter-info)|819770373537406976|
-|[Suspended - Name Changed](https://twitter.com/CapeAnnAntifa)|[@CapeAnnAntifa](data/CapeAnnAntifa-twitter-info)|1067144398545276928|
-|[Suspended - Name Changed](https://twitter.com/CasinoGulag)|[@CasinoGulag](data/CasinoGulag-twitter-info)|953035732230311936|
-|[Suspended - Name Changed](https://twitter.com/ChelseasAntifa)|[@ChelseasAntifa](data/ChelseasAntifa-twitter-info)|910341574428471296|
-|[Suspended - Name Changed](https://twitter.com/ChitownAntifa)|[@ChitownAntifa](data/ChitownAntifa-twitter-info)|841265713130176514|
-|[Suspended - Name Changed](https://twitter.com/Chris__Cuomo)|[@Chris\_\_Cuomo](data/Chris__Cuomo-twitter-info)|761792840167022592|
-|[Suspended - Name Changed](https://twitter.com/ChurchAntifa)|[@ChurchAntifa](data/ChurchAntifa-twitter-info)|894300389356580864|
-|[Suspended - Name Changed](https://twitter.com/clothrobe)|[@clothrobe](data/clothrobe-twitter-info)|1491518873455190021|
-|[Suspended - Name Changed](https://twitter.com/CLT_Antifa)|[@CLT\_Antifa](data/CLT_Antifa-twitter-info)|893214285547130880|
-|[Suspended - Name Changed](https://twitter.com/Colored_Santa)|[@Colored\_Santa](data/Colored_Santa-twitter-info)|1068365303380291584|
-|[Suspended - Name Changed](https://twitter.com/ComradeKaren)|[@ComradeKaren](data/ComradeKaren-twitter-info)|847863014200135681|
-|[Suspended - Name Changed](https://twitter.com/D0CH0IILLDAY)|[@D0CH0IILLDAY](data/D0CH0IILLDAY-twitter-info)|847853719484071937|
-|[Suspended - Name Changed](https://twitter.com/DaazFuror)|[@DaazFuror](data/DaazFuror-twitter-info)|819242596572610560|
-|[Suspended - Name Changed](https://twitter.com/DAMN__ALEX)|[@DAMN\_\_ALEX](data/DAMN__ALEX-twitter-info)|1067144398545276928|
-|[Suspended - Name Changed](https://twitter.com/DatBoiAntifa)|[@DatBoiAntifa](data/DatBoiAntifa-twitter-info)|859242179612495872|
-|[Suspended - Name Changed](https://twitter.com/DAZIVOSTRI)|[@DAZIVOSTRI](data/DAZIVOSTRI-twitter-info)|1067144398545276928|
-|[Suspended - Name Changed](https://twitter.com/DENKbij1geraapt)|[@DENKbij1geraapt](data/DENKbij1geraapt-twitter-info)|925275426058113024|
-|[Suspended - Name Changed](https://twitter.com/diogenenerous)|[@diogenenerous](data/diogenenerous-twitter-info)|906205660672663553|
-|[Suspended - Name Changed](https://twitter.com/DSASteveSeagal)|[@DSASteveSeagal](data/DSASteveSeagal-twitter-info)|953035732230311936|
-|[Suspended - Name Changed](https://twitter.com/dultery)|[@dultery](data/dultery-twitter-info)|77012250|
-|[Suspended - Name Changed](https://twitter.com/DutchGoy)|[@DutchGoy](data/DutchGoy-twitter-info)|925275426058113024|
-|[Suspended - Name Changed](https://twitter.com/EarlJGamingHD)|[@EarlJGamingHD](data/EarlJGamingHD-twitter-info)|2886595444|
-|[Suspended - Name Changed](https://twitter.com/EarlJRapping)|[@EarlJRapping](data/EarlJRapping-twitter-info)|2886595444|
-|[Suspended - Name Changed](https://twitter.com/eattherichhhh)|[@eattherichhhh](data/eattherichhhh-twitter-info)|99467650|
-|[Suspended - Name Changed](https://twitter.com/ElHefe06956236)|[@ElHefe06956236](data/ElHefe06956236-twitter-info)|1211014150643568640|
-|[Suspended - Name Changed](https://twitter.com/ExquisiteTranny)|[@ExquisiteTranny](data/ExquisiteTranny-twitter-info)|893214285547130880|
-|[Suspended - Name Changed](https://twitter.com/fakegregghoush)|[@fakegregghoush](data/fakegregghoush-twitter-info)|252409895|
-|[Suspended - Name Changed](https://twitter.com/feelingsPHD)|[@feelingsPHD](data/feelingsPHD-twitter-info)|848373904020312065|
-|[Suspended - Name Changed](https://twitter.com/FoxNewsSiberia)|[@FoxNewsSiberia](data/FoxNewsSiberia-twitter-info)|819770373537406976|
-|[Suspended - Name Changed](https://twitter.com/gablitzantifa)|[@gablitzantifa](data/gablitzantifa-twitter-info)|1054137763543609345|
-|[Suspended - Name Changed](https://twitter.com/GayMS13)|[@GayMS13](data/GayMS13-twitter-info)|985306649488510976|
-|[Suspended - Name Changed](https://twitter.com/GeorgeLikes0ats)|[@GeorgeLikes0ats](data/GeorgeLikes0ats-twitter-info)|1060677324570611712|
-|[Suspended - Name Changed](https://twitter.com/GThexth)|[@GThexth](data/GThexth-twitter-info)|1010569883719995393|
-|[Suspended - Name Changed](https://twitter.com/GulfportAntifa)|[@GulfportAntifa](data/GulfportAntifa-twitter-info)|848710129851781125|
-|[Suspended - Name Changed](https://twitter.com/Hog_It_Fgt)|[@Hog\_It\_Fgt](data/Hog_It_Fgt-twitter-info)|1162262225165287424|
-|[Suspended - Name Changed](https://twitter.com/iamusicth89)|[@iamusicth89](data/iamusicth89-twitter-info)|99467650|
-|[Suspended - Name Changed](https://twitter.com/IE_ICE_)|[@IE\_ICE\_](data/IE_ICE_-twitter-info)|986656049527533573|
-|[Suspended - Name Changed](https://twitter.com/IeGritty)|[@IeGritty](data/IeGritty-twitter-info)|1064673919976660992|
-|[Suspended - Name Changed](https://twitter.com/InfestSquad)|[@InfestSquad](data/InfestSquad-twitter-info)|1156094425719660544|
-|[Suspended - Name Changed](https://twitter.com/JAntifah)|[@JAntifah](data/JAntifah-twitter-info)|1217236702173057026|
-|[Suspended - Name Changed](https://twitter.com/JohnOBrennan8)|[@JohnOBrennan8](data/JohnOBrennan8-twitter-info)|1030340891838271488|
-|[Suspended - Name Changed](https://twitter.com/JosHEinstein)|[@JosHEinstein](data/JosHEinstein-twitter-info)|77012250|
-|[Suspended - Name Changed](https://twitter.com/JuggaloAntifa)|[@JuggaloAntifa](data/JuggaloAntifa-twitter-info)|862717958174515201|
-|[Suspended - Name Changed](https://twitter.com/kalorama_antifa)|[@kalorama\_antifa](data/kalorama_antifa-twitter-info)|859578587669819393|
-|[Suspended - Name Changed](https://twitter.com/KEKANTIFA)|[@KEKANTIFA](data/KEKANTIFA-twitter-info)|864814869526310912|
-|[Suspended - Name Changed](https://twitter.com/KnoxAtherton)|[@KnoxAtherton](data/KnoxAtherton-twitter-info)|862717958174515201|
-|[Suspended - Name Changed](https://twitter.com/LagunaBLMAntifa)|[@LagunaBLMAntifa](data/LagunaBLMAntifa-twitter-info)|1047885728401768448|
-|[Suspended - Name Changed](https://twitter.com/LDAllan2)|[@LDAllan2](data/LDAllan2-twitter-info)|1067144398545276928|
-|[Suspended - Name Changed](https://twitter.com/LDallan3)|[@LDallan3](data/LDallan3-twitter-info)|1067144398545276928|
-|[Suspended - Name Changed](https://twitter.com/LDALLAN4)|[@LDALLAN4](data/LDALLAN4-twitter-info)|1067144398545276928|
-|[Suspended - Name Changed](https://twitter.com/LDAllan5)|[@LDAllan5](data/LDAllan5-twitter-info)|1067144398545276928|
-|[Suspended - Name Changed](https://twitter.com/lenofanclub)|[@lenofanclub](data/lenofanclub-twitter-info)|900058631160320000|
-|[Suspended - Name Changed](https://twitter.com/liquid4revolver)|[@liquid4revolver](data/liquid4revolver-twitter-info)|1145601060|
-|[Suspended - Name Changed](https://twitter.com/MontvaleAntifa)|[@MontvaleAntifa](data/MontvaleAntifa-twitter-info)|932231170372358145|
-|[Suspended - Name Changed](https://twitter.com/NascarAntifa)|[@NascarAntifa](data/NascarAntifa-twitter-info)|953035732230311936|
-|[Suspended - Name Changed](https://twitter.com/Nazipuncher_666)|[@Nazipuncher\_666](data/Nazipuncher_666-twitter-info)|924347641126948865|
-|[Suspended - Name Changed](https://twitter.com/notsarahjeong)|[@notsarahjeong](data/notsarahjeong-twitter-info)|906205660672663553|
-|[Suspended - Name Changed](https://twitter.com/OMFG_Josh)|[@OMFG\_Josh](data/OMFG_Josh-twitter-info)|77012250|
-|[Suspended - Name Changed](https://twitter.com/OMFG_Vince)|[@OMFG\_Vince](data/OMFG_Vince-twitter-info)|77012250|
-|[Suspended - Name Changed](https://twitter.com/OMFGNN)|[@OMFGNN](data/OMFGNN-twitter-info)|77012250|
-|[Suspended - Name Changed](https://twitter.com/PitBullPositive)|[@PitBullPositive](data/PitBullPositive-twitter-info)|30458840|
-|[Suspended - Name Changed](https://twitter.com/PNWsra)|[@PNWsra](data/PNWsra-twitter-info)|99467650|
-|[Suspended - Name Changed](https://twitter.com/PPHood1488)|[@PPHood1488](data/PPHood1488-twitter-info)|994790512535261185|
-|[Suspended - Name Changed](https://twitter.com/QuinnAntifa)|[@QuinnAntifa](data/QuinnAntifa-twitter-info)|891780043520712704|
-|[Suspended - Name Changed](https://twitter.com/RADIOANTIFA1)|[@RADIOANTIFA1](data/RADIOANTIFA1-twitter-info)|971225409332305921|
-|[Suspended - Name Changed](https://twitter.com/RamboBiggsAlt)|[@RamboBiggsAlt](data/RamboBiggsAlt-twitter-info)|1143503449981685761|
-|[Suspended - Name Changed](https://twitter.com/RealKyleJurek)|[@RealKyleJurek](data/RealKyleJurek-twitter-info)|1217201583034732546|
-|[Suspended - Name Changed](https://twitter.com/ReeeeSleeved)|[@ReeeeSleeved](data/ReeeeSleeved-twitter-info)|1478195591125606403|
-|[Suspended - Name Changed](https://twitter.com/RepVVilson)|[@RepVVilson](data/RepVVilson-twitter-info)|958381678296215554|
-|[Suspended - Name Changed](https://twitter.com/resleaved)|[@resleaved](data/resleaved-twitter-info)|1457776671533244416|
-|[Suspended - Name Changed](https://twitter.com/resleeved1)|[@resleeved1](data/resleeved1-twitter-info)|1457776671533244416|
-|[Suspended - Name Changed](https://twitter.com/rudyr40)|[@rudyr40](data/rudyr40-twitter-info)|3886541534|
-|[Suspended - Name Changed](https://twitter.com/scienceNfacts)|[@scienceNfacts](data/scienceNfacts-twitter-info)|848373904020312065|
-|[Suspended - Name Changed](https://twitter.com/SleevedOne)|[@SleevedOne](data/SleevedOne-twitter-info)|1473765774800134146|
-|[Suspended - Name Changed](https://twitter.com/StormIsUponUsQ)|[@StormIsUponUsQ](data/StormIsUponUsQ-twitter-info)|1248073898412793858|
-|[Suspended - Name Changed](https://twitter.com/tariqhasheed)|[@tariqhasheed](data/tariqhasheed-twitter-info)|4725731773|
-|[Suspended - Name Changed](https://twitter.com/theDebaro)|[@theDebaro](data/theDebaro-twitter-info)|841265713130176514|
-|[Suspended - Name Changed](https://twitter.com/TheResleeved)|[@TheResleeved](data/TheResleeved-twitter-info)|1478195591125606403|
-|[Suspended - Name Changed](https://twitter.com/TwolftrapAF)|[@TwolftrapAF](data/TwolftrapAF-twitter-info)|963657463399632898|
-|[Suspended - Name Changed](https://twitter.com/U_R_FakeNews)|[@U\_R\_FakeNews](data/U_R_FakeNews-twitter-info)|761792840167022592|
-|[Suspended - Name Changed](https://twitter.com/UPSonIine)|[@UPSonIine](data/UPSonIine-twitter-info)|1143503449981685761|
-|[Suspended - Name Changed](https://twitter.com/UscAntifa)|[@UscAntifa](data/UscAntifa-twitter-info)|848574024258998272|
-|[Suspended - Name Changed](https://twitter.com/VacBloc2)|[@VacBloc2](data/VacBloc2-twitter-info)|1079964066314051585|
-|[Suspended - Name Changed](https://twitter.com/VALLEJOANTIFA)|[@VALLEJOANTIFA](data/VALLEJOANTIFA-twitter-info)|889671039185235969|
-|[Suspended - Name Changed](https://twitter.com/WBIH4)|[@WBIH4](data/WBIH4-twitter-info)|1156094425719660544|
-|[Suspended - Name Changed](https://twitter.com/WeHoAntifa)|[@WeHoAntifa](data/WeHoAntifa-twitter-info)|848742108034850816|
-|[Suspended - Name Changed](https://twitter.com/WhiteChadKing)|[@WhiteChadKing](data/WhiteChadKing-twitter-info)|1295734882644131841|
-|[Suspended - Name Changed](https://twitter.com/WonkOfWallStret)|[@WonkOfWallStret](data/WonkOfWallStret-twitter-info)|889671039185235969|
-|[Suspended - Name Changed](https://twitter.com/WonkOfWalStreet)|[@WonkOfWalStreet](data/WonkOfWalStreet-twitter-info)|889671039185235969|
-|[Suspended - Name Changed](https://twitter.com/WorldStarAntifa)|[@WorldStarAntifa](data/WorldStarAntifa-twitter-info)|900504494835879936|
-|[Suspended - Name Changed](https://twitter.com/xrp_whale)|[@xrp\_whale](data/xrp_whale-twitter-info)|946204935485452289|
+|[Suspended - Name Changed](https://twitter.com/i/user/1295734882644131841)|[@\_\_JHA\_of\_WY\_\_](data/__JHA_of_WY__-twitter-info)|1295734882644131841|
+|[Suspended - Name Changed](https://twitter.com/i/user/893214285547130880)|[@\_\_Snopes\_\_](data/__Snopes__-twitter-info)|893214285547130880|
+|[Suspended - Name Changed](https://twitter.com/i/user/1060677324570611712)|[@\_Ymtise](data/_Ymtise-twitter-info)|1060677324570611712|
+|[Suspended - Name Changed](https://twitter.com/i/user/31046750)|[@0fuxgiven0](data/0fuxgiven0-twitter-info)|31046750|
+|[Suspended - Name Changed](https://twitter.com/i/user/46504042)|[@1080skibunny](data/1080skibunny-twitter-info)|46504042|
+|[Suspended - Name Changed](https://twitter.com/i/user/893214285547130880)|[@A\_ShockedMonkey](data/A_ShockedMonkey-twitter-info)|893214285547130880|
+|[Suspended - Name Changed](https://twitter.com/i/user/1001356331318743041)|[@AgawamAntifa](data/AgawamAntifa-twitter-info)|1001356331318743041|
+|[Suspended - Name Changed](https://twitter.com/i/user/938456024993992705)|[@Alex\_s\_Ashes](data/Alex_s_Ashes-twitter-info)|938456024993992705|
+|[Suspended - Name Changed](https://twitter.com/i/user/1162262225165287424)|[@AlexNmeba](data/AlexNmeba-twitter-info)|1162262225165287424|
+|[Suspended - Name Changed](https://twitter.com/i/user/938456024993992705)|[@Alexs\_Ashes](data/Alexs_Ashes-twitter-info)|938456024993992705|
+|[Suspended - Name Changed](https://twitter.com/i/user/946545904034697216)|[@AmmonBundyRanch](data/AmmonBundyRanch-twitter-info)|946545904034697216|
+|[Suspended - Name Changed](https://twitter.com/i/user/77012250)|[@AnthonyVVeiner](data/AnthonyVVeiner-twitter-info)|77012250|
+|[Suspended - Name Changed](https://twitter.com/i/user/914647870736883712)|[@AnticomPHL](data/AnticomPHL-twitter-info)|914647870736883712|
+|[Suspended - Name Changed](https://twitter.com/i/user/1248073898412793858)|[@ANTIFA\_America](data/ANTIFA_America-twitter-info)|1248073898412793858|
+|[Suspended - Name Changed](https://twitter.com/i/user/920959058995113985)|[@antifa\_hamptons](data/antifa_hamptons-twitter-info)|920959058995113985|
+|[Suspended - Name Changed](https://twitter.com/i/user/1177990115018317825)|[@antifa\_san](data/antifa_san-twitter-info)|1177990115018317825|
+|[Suspended - Name Changed](https://twitter.com/i/user/3240998492)|[@AntifaHQ](data/AntifaHQ-twitter-info)|3240998492|
+|[Suspended - Name Changed](https://twitter.com/i/user/910673270361481217)|[@AntifaManhattan](data/AntifaManhattan-twitter-info)|910673270361481217|
+|[Suspended - Name Changed](https://twitter.com/i/user/1270499877911478272)|[@AntifaofTheHole](data/AntifaofTheHole-twitter-info)|1270499877911478272|
+|[Suspended - Name Changed](https://twitter.com/i/user/994616557421592576)|[@AntifaPatton](data/AntifaPatton-twitter-info)|994616557421592576|
+|[Suspended - Name Changed](https://twitter.com/i/user/855826472145178624)|[@AntifaPD](data/AntifaPD-twitter-info)|855826472145178624|
+|[Suspended - Name Changed](https://twitter.com/i/user/863439245704175617)|[@AntifaSaltLake](data/AntifaSaltLake-twitter-info)|863439245704175617|
+|[Suspended - Name Changed](https://twitter.com/i/user/1186364533058596864)|[@antifashUS](data/antifashUS-twitter-info)|1186364533058596864|
+|[Suspended - Name Changed](https://twitter.com/i/user/848574024258998272)|[@AntifaVacaville](data/AntifaVacaville-twitter-info)|848574024258998272|
+|[Suspended - Name Changed](https://twitter.com/i/user/828855385591123968)|[@ArizonaAntifa](data/ArizonaAntifa-twitter-info)|828855385591123968|
+|[Suspended - Name Changed](https://twitter.com/i/user/99467650)|[@ArmedAtrani](data/ArmedAtrani-twitter-info)|99467650|
+|[Suspended - Name Changed](https://twitter.com/i/user/819770373537406976)|[@AScarramucci](data/AScarramucci-twitter-info)|819770373537406976|
+|[Suspended - Name Changed](https://twitter.com/i/user/252409895)|[@AsherahResearch](data/AsherahResearch-twitter-info)|252409895|
+|[Suspended - Name Changed](https://twitter.com/i/user/953035732230311936)|[@AtheistSavant](data/AtheistSavant-twitter-info)|953035732230311936|
+|[Suspended - Name Changed](https://twitter.com/i/user/77012250)|[@BadGuyVince](data/BadGuyVince-twitter-info)|77012250|
+|[Suspended - Name Changed](https://twitter.com/i/user/909592904598921216)|[@BBAntifacists](data/BBAntifacists-twitter-info)|909592904598921216|
+|[Suspended - Name Changed](https://twitter.com/i/user/946204935485452289)|[@BeachAntifa](data/BeachAntifa-twitter-info)|946204935485452289|
+|[Suspended - Name Changed](https://twitter.com/i/user/946204935485452289)|[@bidenisaliar](data/bidenisaliar-twitter-info)|946204935485452289|
+|[Suspended - Name Changed](https://twitter.com/i/user/1082675175584354304)|[@BigBoyBobAntifa](data/BigBoyBobAntifa-twitter-info)|1082675175584354304|
+|[Suspended - Name Changed](https://twitter.com/i/user/925275426058113024)|[@bij1geraapt](data/bij1geraapt-twitter-info)|925275426058113024|
+|[Suspended - Name Changed](https://twitter.com/i/user/1082675175584354304)|[@BlueBobAntifa](data/BlueBobAntifa-twitter-info)|1082675175584354304|
+|[Suspended - Name Changed](https://twitter.com/i/user/1145601060)|[@BobPolockRoss](data/BobPolockRoss-twitter-info)|1145601060|
+|[Suspended - Name Changed](https://twitter.com/i/user/894304515054239744)|[@BOBSABADBOY](data/BOBSABADBOY-twitter-info)|894304515054239744|
+|[Suspended - Name Changed](https://twitter.com/i/user/1060677324570611712)|[@BobsB1gBoyDubai](data/BobsB1gBoyDubai-twitter-info)|1060677324570611712|
+|[Suspended - Name Changed](https://twitter.com/i/user/894304515054239744)|[@BObsBigB0yDubai](data/BObsBigB0yDubai-twitter-info)|894304515054239744|
+|[Suspended - Name Changed](https://twitter.com/i/user/861818257321455617)|[@BowtownAntifa](data/BowtownAntifa-twitter-info)|861818257321455617|
+|[Suspended - Name Changed](https://twitter.com/i/user/1527758909968195584)|[@Bronze\_Benis](data/Bronze_Benis-twitter-info)|1527758909968195584|
+|[Suspended - Name Changed](https://twitter.com/i/user/1082675175584354304)|[@Burnt\_Notion](data/Burnt_Notion-twitter-info)|1082675175584354304|
+|[Suspended - Name Changed](https://twitter.com/i/user/938456024993992705)|[@Burnt238](data/Burnt238-twitter-info)|938456024993992705|
+|[Suspended - Name Changed](https://twitter.com/i/user/938456024993992705)|[@burnt239](data/burnt239-twitter-info)|938456024993992705|
+|[Suspended - Name Changed](https://twitter.com/i/user/938456024993992705)|[@Burnt240](data/Burnt240-twitter-info)|938456024993992705|
+|[Suspended - Name Changed](https://twitter.com/i/user/1082675175584354304)|[@Burnt248](data/Burnt248-twitter-info)|1082675175584354304|
+|[Suspended - Name Changed](https://twitter.com/i/user/31046750)|[@byrdsheit](data/byrdsheit-twitter-info)|31046750|
+|[Suspended - Name Changed](https://twitter.com/i/user/819770373537406976)|[@CampusAntifa](data/CampusAntifa-twitter-info)|819770373537406976|
+|[Suspended - Name Changed](https://twitter.com/i/user/1067144398545276928)|[@CapeAnnAntifa](data/CapeAnnAntifa-twitter-info)|1067144398545276928|
+|[Suspended - Name Changed](https://twitter.com/i/user/953035732230311936)|[@CasinoGulag](data/CasinoGulag-twitter-info)|953035732230311936|
+|[Suspended - Name Changed](https://twitter.com/i/user/910341574428471296)|[@ChelseasAntifa](data/ChelseasAntifa-twitter-info)|910341574428471296|
+|[Suspended - Name Changed](https://twitter.com/i/user/841265713130176514)|[@ChitownAntifa](data/ChitownAntifa-twitter-info)|841265713130176514|
+|[Suspended - Name Changed](https://twitter.com/i/user/761792840167022592)|[@Chris\_\_Cuomo](data/Chris__Cuomo-twitter-info)|761792840167022592|
+|[Suspended - Name Changed](https://twitter.com/i/user/894300389356580864)|[@ChurchAntifa](data/ChurchAntifa-twitter-info)|894300389356580864|
+|[Suspended - Name Changed](https://twitter.com/i/user/1491518873455190021)|[@clothrobe](data/clothrobe-twitter-info)|1491518873455190021|
+|[Suspended - Name Changed](https://twitter.com/i/user/893214285547130880)|[@CLT\_Antifa](data/CLT_Antifa-twitter-info)|893214285547130880|
+|[Suspended - Name Changed](https://twitter.com/i/user/1068365303380291584)|[@Colored\_Santa](data/Colored_Santa-twitter-info)|1068365303380291584|
+|[Suspended - Name Changed](https://twitter.com/i/user/31046750)|[@communistfilth](data/communistfilth-twitter-info)|31046750|
+|[Suspended - Name Changed](https://twitter.com/i/user/847863014200135681)|[@ComradeKaren](data/ComradeKaren-twitter-info)|847863014200135681|
+|[Suspended - Name Changed](https://twitter.com/i/user/847853719484071937)|[@D0CH0IILLDAY](data/D0CH0IILLDAY-twitter-info)|847853719484071937|
+|[Suspended - Name Changed](https://twitter.com/i/user/819242596572610560)|[@DaazFuror](data/DaazFuror-twitter-info)|819242596572610560|
+|[Suspended - Name Changed](https://twitter.com/i/user/1067144398545276928)|[@DAMN\_\_ALEX](data/DAMN__ALEX-twitter-info)|1067144398545276928|
+|[Suspended - Name Changed](https://twitter.com/i/user/859242179612495872)|[@DatBoiAntifa](data/DatBoiAntifa-twitter-info)|859242179612495872|
+|[Suspended - Name Changed](https://twitter.com/i/user/1067144398545276928)|[@DAZIVOSTRI](data/DAZIVOSTRI-twitter-info)|1067144398545276928|
+|[Suspended - Name Changed](https://twitter.com/i/user/925275426058113024)|[@DENKbij1geraapt](data/DENKbij1geraapt-twitter-info)|925275426058113024|
+|[Suspended - Name Changed](https://twitter.com/i/user/906205660672663553)|[@diogenenerous](data/diogenenerous-twitter-info)|906205660672663553|
+|[Suspended - Name Changed](https://twitter.com/i/user/31046750)|[@DoubleRDoubleU](data/DoubleRDoubleU-twitter-info)|31046750|
+|[Suspended - Name Changed](https://twitter.com/i/user/953035732230311936)|[@DSASteveSeagal](data/DSASteveSeagal-twitter-info)|953035732230311936|
+|[Suspended - Name Changed](https://twitter.com/i/user/77012250)|[@dultery](data/dultery-twitter-info)|77012250|
+|[Suspended - Name Changed](https://twitter.com/i/user/925275426058113024)|[@DutchGoy](data/DutchGoy-twitter-info)|925275426058113024|
+|[Suspended - Name Changed](https://twitter.com/i/user/2886595444)|[@EarlJGamingHD](data/EarlJGamingHD-twitter-info)|2886595444|
+|[Suspended - Name Changed](https://twitter.com/i/user/2886595444)|[@EarlJRapping](data/EarlJRapping-twitter-info)|2886595444|
+|[Suspended - Name Changed](https://twitter.com/i/user/99467650)|[@eattherichhhh](data/eattherichhhh-twitter-info)|99467650|
+|[Suspended - Name Changed](https://twitter.com/i/user/1211014150643568640)|[@ElHefe06956236](data/ElHefe06956236-twitter-info)|1211014150643568640|
+|[Suspended - Name Changed](https://twitter.com/i/user/893214285547130880)|[@ExquisiteTranny](data/ExquisiteTranny-twitter-info)|893214285547130880|
+|[Suspended - Name Changed](https://twitter.com/i/user/252409895)|[@fakegregghoush](data/fakegregghoush-twitter-info)|252409895|
+|[Suspended - Name Changed](https://twitter.com/i/user/848373904020312065)|[@feelingsPHD](data/feelingsPHD-twitter-info)|848373904020312065|
+|[Suspended - Name Changed](https://twitter.com/i/user/819770373537406976)|[@FoxNewsSiberia](data/FoxNewsSiberia-twitter-info)|819770373537406976|
+|[Suspended - Name Changed](https://twitter.com/i/user/1054137763543609345)|[@gablitzantifa](data/gablitzantifa-twitter-info)|1054137763543609345|
+|[Suspended - Name Changed](https://twitter.com/i/user/985306649488510976)|[@GayMS13](data/GayMS13-twitter-info)|985306649488510976|
+|[Suspended - Name Changed](https://twitter.com/i/user/1060677324570611712)|[@GeorgeLikes0ats](data/GeorgeLikes0ats-twitter-info)|1060677324570611712|
+|[Suspended - Name Changed](https://twitter.com/i/user/31046750)|[@gtfonow1](data/gtfonow1-twitter-info)|31046750|
+|[Suspended - Name Changed](https://twitter.com/i/user/1010569883719995393)|[@GThexth](data/GThexth-twitter-info)|1010569883719995393|
+|[Suspended - Name Changed](https://twitter.com/i/user/885360095944691712)|[@Guamantifa](data/Guamantifa-twitter-info)|885360095944691712|
+|[Suspended - Name Changed](https://twitter.com/i/user/848710129851781125)|[@GulfportAntifa](data/GulfportAntifa-twitter-info)|848710129851781125|
+|[Suspended - Name Changed](https://twitter.com/i/user/1162262225165287424)|[@Hog\_It\_Fgt](data/Hog_It_Fgt-twitter-info)|1162262225165287424|
+|[Suspended - Name Changed](https://twitter.com/i/user/99467650)|[@iamusicth89](data/iamusicth89-twitter-info)|99467650|
+|[Suspended - Name Changed](https://twitter.com/i/user/986656049527533573)|[@IE\_ICE\_](data/IE_ICE_-twitter-info)|986656049527533573|
+|[Suspended - Name Changed](https://twitter.com/i/user/1064673919976660992)|[@IeGritty](data/IeGritty-twitter-info)|1064673919976660992|
+|[Suspended - Name Changed](https://twitter.com/i/user/1156094425719660544)|[@InfestSquad](data/InfestSquad-twitter-info)|1156094425719660544|
+|[Suspended - Name Changed](https://twitter.com/i/user/1217236702173057026)|[@JAntifah](data/JAntifah-twitter-info)|1217236702173057026|
+|[Suspended - Name Changed](https://twitter.com/i/user/1030340891838271488)|[@JohnOBrennan8](data/JohnOBrennan8-twitter-info)|1030340891838271488|
+|[Suspended - Name Changed](https://twitter.com/i/user/77012250)|[@JosHEinstein](data/JosHEinstein-twitter-info)|77012250|
+|[Suspended - Name Changed](https://twitter.com/i/user/862717958174515201)|[@JuggaloAntifa](data/JuggaloAntifa-twitter-info)|862717958174515201|
+|[Suspended - Name Changed](https://twitter.com/i/user/859578587669819393)|[@kalorama\_antifa](data/kalorama_antifa-twitter-info)|859578587669819393|
+|[Suspended - Name Changed](https://twitter.com/i/user/864814869526310912)|[@KEKANTIFA](data/KEKANTIFA-twitter-info)|864814869526310912|
+|[Suspended - Name Changed](https://twitter.com/i/user/862717958174515201)|[@KnoxAtherton](data/KnoxAtherton-twitter-info)|862717958174515201|
+|[Suspended - Name Changed](https://twitter.com/i/user/1047885728401768448)|[@LagunaBLMAntifa](data/LagunaBLMAntifa-twitter-info)|1047885728401768448|
+|[Suspended - Name Changed](https://twitter.com/i/user/796441410069266449)|[@LaurenCuca](data/LaurenCuca-twitter-info)|796441410069266449|
+|[Suspended - Name Changed](https://twitter.com/i/user/1067144398545276928)|[@LDAllan2](data/LDAllan2-twitter-info)|1067144398545276928|
+|[Suspended - Name Changed](https://twitter.com/i/user/1067144398545276928)|[@LDallan3](data/LDallan3-twitter-info)|1067144398545276928|
+|[Suspended - Name Changed](https://twitter.com/i/user/1067144398545276928)|[@LDALLAN4](data/LDALLAN4-twitter-info)|1067144398545276928|
+|[Suspended - Name Changed](https://twitter.com/i/user/1067144398545276928)|[@LDAllan5](data/LDAllan5-twitter-info)|1067144398545276928|
+|[Suspended - Name Changed](https://twitter.com/i/user/900058631160320000)|[@lenofanclub](data/lenofanclub-twitter-info)|900058631160320000|
+|[Suspended - Name Changed](https://twitter.com/i/user/31046750)|[@LessThan0Fux](data/LessThan0Fux-twitter-info)|31046750|
+|[Suspended - Name Changed](https://twitter.com/i/user/1145601060)|[@liquid4revolver](data/liquid4revolver-twitter-info)|1145601060|
+|[Suspended - Name Changed](https://twitter.com/i/user/932231170372358145)|[@MontvaleAntifa](data/MontvaleAntifa-twitter-info)|932231170372358145|
+|[Suspended - Name Changed](https://twitter.com/i/user/953035732230311936)|[@NascarAntifa](data/NascarAntifa-twitter-info)|953035732230311936|
+|[Suspended - Name Changed](https://twitter.com/i/user/924347641126948865)|[@Nazipuncher\_666](data/Nazipuncher_666-twitter-info)|924347641126948865|
+|[Suspended - Name Changed](https://twitter.com/i/user/906205660672663553)|[@notsarahjeong](data/notsarahjeong-twitter-info)|906205660672663553|
+|[Suspended - Name Changed](https://twitter.com/i/user/77012250)|[@OMFG\_Josh](data/OMFG_Josh-twitter-info)|77012250|
+|[Suspended - Name Changed](https://twitter.com/i/user/77012250)|[@OMFG\_Vince](data/OMFG_Vince-twitter-info)|77012250|
+|[Suspended - Name Changed](https://twitter.com/i/user/77012250)|[@OMFGNN](data/OMFGNN-twitter-info)|77012250|
+|[Suspended - Name Changed](https://twitter.com/i/user/30458840)|[@PitBullPositive](data/PitBullPositive-twitter-info)|30458840|
+|[Suspended - Name Changed](https://twitter.com/i/user/99467650)|[@PNWsra](data/PNWsra-twitter-info)|99467650|
+|[Suspended - Name Changed](https://twitter.com/i/user/994790512535261185)|[@PPHood1488](data/PPHood1488-twitter-info)|994790512535261185|
+|[Suspended - Name Changed](https://twitter.com/i/user/891780043520712704)|[@QuinnAntifa](data/QuinnAntifa-twitter-info)|891780043520712704|
+|[Suspended - Name Changed](https://twitter.com/i/user/971225409332305921)|[@RADIOANTIFA1](data/RADIOANTIFA1-twitter-info)|971225409332305921|
+|[Suspended - Name Changed](https://twitter.com/i/user/1143503449981685761)|[@RamboBiggsAlt](data/RamboBiggsAlt-twitter-info)|1143503449981685761|
+|[Suspended - Name Changed](https://twitter.com/i/user/1217201583034732546)|[@RealKyleJurek](data/RealKyleJurek-twitter-info)|1217201583034732546|
+|[Suspended - Name Changed](https://twitter.com/i/user/1478195591125606403)|[@ReeeeSleeved](data/ReeeeSleeved-twitter-info)|1478195591125606403|
+|[Suspended - Name Changed](https://twitter.com/i/user/958381678296215554)|[@RepVVilson](data/RepVVilson-twitter-info)|958381678296215554|
+|[Suspended - Name Changed](https://twitter.com/i/user/1457776671533244416)|[@resleaved](data/resleaved-twitter-info)|1457776671533244416|
+|[Suspended - Name Changed](https://twitter.com/i/user/1457776671533244416)|[@resleeved1](data/resleeved1-twitter-info)|1457776671533244416|
+|[Suspended - Name Changed](https://twitter.com/i/user/3886541534)|[@rudyr40](data/rudyr40-twitter-info)|3886541534|
+|[Suspended - Name Changed](https://twitter.com/i/user/848373904020312065)|[@scienceNfacts](data/scienceNfacts-twitter-info)|848373904020312065|
+|[Suspended - Name Changed](https://twitter.com/i/user/1473765774800134146)|[@SleevedOne](data/SleevedOne-twitter-info)|1473765774800134146|
+|[Suspended - Name Changed](https://twitter.com/i/user/1248073898412793858)|[@StormIsUponUsQ](data/StormIsUponUsQ-twitter-info)|1248073898412793858|
+|[Suspended - Name Changed](https://twitter.com/i/user/885360095944691712)|[@Tariq\_Elite](data/Tariq_Elite-twitter-info)|885360095944691712|
+|[Suspended - Name Changed](https://twitter.com/i/user/4725731773)|[@tariqhasheed](data/tariqhasheed-twitter-info)|4725731773|
+|[Suspended - Name Changed](https://twitter.com/i/user/841265713130176514)|[@theDebaro](data/theDebaro-twitter-info)|841265713130176514|
+|[Suspended - Name Changed](https://twitter.com/i/user/1478195591125606403)|[@TheResleeved](data/TheResleeved-twitter-info)|1478195591125606403|
+|[Suspended - Name Changed](https://twitter.com/i/user/963657463399632898)|[@TwolftrapAF](data/TwolftrapAF-twitter-info)|963657463399632898|
+|[Suspended - Name Changed](https://twitter.com/i/user/761792840167022592)|[@U\_R\_FakeNews](data/U_R_FakeNews-twitter-info)|761792840167022592|
+|[Suspended - Name Changed](https://twitter.com/i/user/1143503449981685761)|[@UPSonIine](data/UPSonIine-twitter-info)|1143503449981685761|
+|[Suspended - Name Changed](https://twitter.com/i/user/848574024258998272)|[@UscAntifa](data/UscAntifa-twitter-info)|848574024258998272|
+|[Suspended - Name Changed](https://twitter.com/i/user/1079964066314051585)|[@VacBloc2](data/VacBloc2-twitter-info)|1079964066314051585|
+|[Suspended - Name Changed](https://twitter.com/i/user/889671039185235969)|[@VALLEJOANTIFA](data/VALLEJOANTIFA-twitter-info)|889671039185235969|
+|[Suspended - Name Changed](https://twitter.com/i/user/1156094425719660544)|[@WBIH4](data/WBIH4-twitter-info)|1156094425719660544|
+|[Suspended - Name Changed](https://twitter.com/i/user/848742108034850816)|[@WeHoAntifa](data/WeHoAntifa-twitter-info)|848742108034850816|
+|[Suspended - Name Changed](https://twitter.com/i/user/796441410069266449)|[@WendysAntifa](data/WendysAntifa-twitter-info)|796441410069266449|
+|[Suspended - Name Changed](https://twitter.com/i/user/1295734882644131841)|[@WhiteChadKing](data/WhiteChadKing-twitter-info)|1295734882644131841|
+|[Suspended - Name Changed](https://twitter.com/i/user/889671039185235969)|[@WonkOfWallStret](data/WonkOfWallStret-twitter-info)|889671039185235969|
+|[Suspended - Name Changed](https://twitter.com/i/user/889671039185235969)|[@WonkOfWalStreet](data/WonkOfWalStreet-twitter-info)|889671039185235969|
+|[Suspended - Name Changed](https://twitter.com/i/user/900504494835879936)|[@WorldStarAntifa](data/WorldStarAntifa-twitter-info)|900504494835879936|
+|[Suspended - Name Changed](https://twitter.com/i/user/946204935485452289)|[@xrp\_whale](data/xrp_whale-twitter-info)|946204935485452289|
+|[Suspended - Name Changed](https://twitter.com/i/user/31046750)|[@ZeroFuxtoGive](data/ZeroFuxtoGive-twitter-info)|31046750|
+|[Name Changed](https://twitter.com/i/user/1012921731302871041)|[@AntEthereum](data/AntEthereum-twitter-info)|1012921731302871041|
+|[Name Changed](https://twitter.com/i/user/896562774779846658)|[@antifa\_tiki](data/antifa_tiki-twitter-info)|896562774779846658|
+|[Name Changed](https://twitter.com/i/user/902156160945573890)|[@AntifaBinkys](data/AntifaBinkys-twitter-info)|902156160945573890|
+|[Name Changed](https://twitter.com/i/user/848040384039067648)|[@AntifaUtah](data/AntifaUtah-twitter-info)|848040384039067648|
+|[Name Changed](https://twitter.com/i/user/818126854091485184)|[@baathsalt](data/baathsalt-twitter-info)|818126854091485184|
+|[Name Changed](https://twitter.com/i/user/601029755)|[@Bath\_Antifa](data/Bath_Antifa-twitter-info)|601029755|
+|[Name Changed](https://twitter.com/i/user/1012921731302871041)|[@BCashAuntiFa](data/BCashAuntiFa-twitter-info)|1012921731302871041|
+|[Name Changed](https://twitter.com/i/user/818126854091485184)|[@Brutaltism](data/Brutaltism-twitter-info)|818126854091485184|
+|[Name Changed](https://twitter.com/i/user/847970588773818368)|[@BuckheadAnita](data/BuckheadAnita-twitter-info)|847970588773818368|
+|[Name Changed](https://twitter.com/i/user/832422851005313024)|[@BuffaloAntifa](data/BuffaloAntifa-twitter-info)|832422851005313024|
+|[Name Changed](https://twitter.com/i/user/4805367912)|[@burnantifa](data/burnantifa-twitter-info)|4805367912|
+|[Name Changed](https://twitter.com/i/user/304697021)|[@Dwakefield69](data/Dwakefield69-twitter-info)|304697021|
+|[Name Changed](https://twitter.com/i/user/1187697893785755648)|[@flraag](data/flraag-twitter-info)|1187697893785755648|
+|[Name Changed](https://twitter.com/i/user/717914842481500160)|[@folouofficial](data/folouofficial-twitter-info)|717914842481500160|
+|[Name Changed](https://twitter.com/i/user/897941021555924992)|[@FtBraggAntifa](data/FtBraggAntifa-twitter-info)|897941021555924992|
+|[Name Changed](https://twitter.com/i/user/1328113068)|[@GoingGies](data/GoingGies-twitter-info)|1328113068|
+|[Name Changed](https://twitter.com/i/user/832422851005313024)|[@HillaryCli2020](data/HillaryCli2020-twitter-info)|832422851005313024|
+|[Name Changed](https://twitter.com/i/user/816039689127739392)|[@IRV\_Antifa](data/IRV_Antifa-twitter-info)|816039689127739392|
+|[Name Changed](https://twitter.com/i/user/502446133)|[@jawillerding](data/jawillerding-twitter-info)|502446133|
+|[Name Changed](https://twitter.com/i/user/818126854091485184)|[@KaliLegdrop](data/KaliLegdrop-twitter-info)|818126854091485184|
+|[Name Changed](https://twitter.com/i/user/1187697893785755648)|[@meaffa](data/meaffa-twitter-info)|1187697893785755648|
+|[Name Changed](https://twitter.com/i/user/1187697893785755648)|[@meappaa](data/meappaa-twitter-info)|1187697893785755648|
+|[Name Changed](https://twitter.com/i/user/181782082)|[@newaustinite](data/newaustinite-twitter-info)|181782082|
+|[Name Changed](https://twitter.com/i/user/1056368950190202880)|[@NWANTIFATAC](data/NWANTIFATAC-twitter-info)|1056368950190202880|
+|[Name Changed](https://twitter.com/i/user/850165175038525441)|[@SFAntifa](data/SFAntifa-twitter-info)|850165175038525441|
+|[Name Changed](https://twitter.com/i/user/864299780364783616)|[@STexasAntifa](data/STexasAntifa-twitter-info)|864299780364783616|
+|[Name Changed](https://twitter.com/i/user/848040384039067648)|[@Tactual100](data/Tactual100-twitter-info)|848040384039067648|
+|[Name Changed](https://twitter.com/i/user/818126854091485184)|[@typical\_twink](data/typical_twink-twitter-info)|818126854091485184|
+|[Name Changed](https://twitter.com/i/user/897941021555924992)|[@USASOCandProud](data/USASOCandProud-twitter-info)|897941021555924992|
+|[Name Changed](https://twitter.com/i/user/832359419203768320)|[@UtahAntiFascist](data/UtahAntiFascist-twitter-info)|832359419203768320|

@@ -254,7 +254,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Suspended](https://twitter.com/antifa_bc)|[@antifa\_bc](data/antifa_bc-twitter-info)|847984597870583809|
 |[Suspended](https://twitter.com/antifa_berkeley)|[@antifa\_berkeley](data/antifa_berkeley-twitter-info)|871561257702141952|
 |[Suspended](https://twitter.com/Antifa_Butlins)|[@Antifa\_Butlins](data/Antifa_Butlins-twitter-info)|813142594964385793|
-|[Suspended](https://twitter.com/antifa_chicago )|[@antifa\_chicago ](data/antifa_chicago -twitter-info)|904965845394345985|
+|[Suspended](https://twitter.com/antifa_chicago )|[@antifa\_chicago ](data/antifa_chicago-twitter-info)|904965845394345985|
 |[Suspended](https://twitter.com/Antifa_ElPaso)|[@Antifa\_ElPaso](data/Antifa_ElPaso-twitter-info)|902287482095632384|
 |[Suspended](https://twitter.com/antifa_frisco)|[@antifa\_frisco](data/antifa_frisco-twitter-info)|1177990115018317825|
 |[Suspended](https://twitter.com/Antifa_Geezer)|[@Antifa\_Geezer](data/Antifa_Geezer-twitter-info)|863730391580114945|

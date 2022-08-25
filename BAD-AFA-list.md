@@ -6,7 +6,6 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Active](https://twitter.com/IdeologyWars)|[@IdeologyWars](data/IdeologyWars-twitter-info)|816039689127739392|
 |[Active](https://twitter.com/IrishAntifa)|[@IrishAntifa](data/IrishAntifa-twitter-info)|1204214253953191937|
 |[Active](https://twitter.com/Tombstone1954)|[@Tombstone1954](data/Tombstone1954-twitter-info)|902156160945573890|
-|[Active](https://twitter.com/yzameaw)|[@yzameaw](data/yzameaw-twitter-info)|1187697893785755648|
 |[Deleted](https://twitter.com/alaztekiyyah)|[@alaztekiyyah](data/alaztekiyyah-twitter-info)|940648790050172929|
 |[Deleted](https://twitter.com/antifa__ny)|[@antifa\_\_ny](data/antifa__ny-twitter-info)|1143316962694639616|
 |[Deleted](https://twitter.com/AntifaAnchorage)|[@AntifaAnchorage](data/AntifaAnchorage-twitter-info)|847761800099581952|
@@ -131,10 +130,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Name Changed](https://twitter.com/i/user/897941021555924992)|[@USASOCandProud](data/USASOCandProud-twitter-info)|897941021555924992|
 |[Name Changed](https://twitter.com/i/user/832359419203768320)|[@UtahAntiFascist](data/UtahAntiFascist-twitter-info)|832359419203768320|
 |[Name Changed](https://twitter.com/i/user/832422851005313024)|[@BuffaloAntifa](data/BuffaloAntifa-twitter-info)|832422851005313024|
-|[Name Changed](https://twitter.com/i/user/1187697893785755648)|[@flraag](data/flraag-twitter-info)|1187697893785755648|
 |[Name Changed](https://twitter.com/i/user/832422851005313024)|[@HillaryCli2020](data/HillaryCli2020-twitter-info)|832422851005313024|
-|[Name Changed](https://twitter.com/i/user/1187697893785755648)|[@meaffa](data/meaffa-twitter-info)|1187697893785755648|
-|[Name Changed](https://twitter.com/i/user/1187697893785755648)|[@meappaa](data/meappaa-twitter-info)|1187697893785755648|
 |[Suspended](https://twitter.com/AntifaOr)|[@AntifaOr](data/AntifaOr-twitter-info)|1304520055649169409|
 |[Suspended](https://twitter.com/antifatoronto)|[@antifatoronto](data/antifatoronto-twitter-info)|1472034706451361795|
 |[Suspended](https://twitter.com/NashvilleAntifa)|[@NashvilleAntifa](data/NashvilleAntifa-twitter-info)|820888747030016000|

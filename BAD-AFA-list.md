@@ -5,6 +5,7 @@ Users that are currently branded as non-antifa had previously posed as antifa on
 |[Active](https://twitter.com/Bill_Hogarth)|[@Bill\_Hogarth](data/Bill_Hogarth-twitter-info)|601029755|
 |[Active](https://twitter.com/IdeologyWars)|[@IdeologyWars](data/IdeologyWars-twitter-info)|816039689127739392|
 |[Active](https://twitter.com/IrishAntifa)|[@IrishAntifa](data/IrishAntifa-twitter-info)|1204214253953191937|
+|[Active](https://twitter.com/Pro_life_AAA|[@Pro_life_AAA](data/IrishAntifa-twitter-info)|195001410|
 |[Active](https://twitter.com/Tombstone1954)|[@Tombstone1954](data/Tombstone1954-twitter-info)|902156160945573890|
 |[Deleted](https://twitter.com/alaztekiyyah)|[@alaztekiyyah](data/alaztekiyyah-twitter-info)|940648790050172929|
 |[Deleted](https://twitter.com/antifa__ny)|[@antifa\_\_ny](data/antifa__ny-twitter-info)|1143316962694639616|
